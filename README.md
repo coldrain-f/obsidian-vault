@@ -30,3 +30,4 @@
 ## 📝 라이선스
 
 개인 사용 목적으로 생성된 vault입니다. 무단 복제 및 배포를 금지합니다.
+This vault is created for personal use only. Unauthorized copying and distribution are prohibited.
