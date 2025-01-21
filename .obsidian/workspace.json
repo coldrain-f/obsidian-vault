@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Algorithm/Concepts/순열과 조합.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -185,11 +185,16 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "publish:변경사항 출판": false
     }
   },
   "active": "51ab520ec598f346",
   "lastOpenFiles": [
+    "Home/Welcome.md",
+    "Home",
+    "logo.jpg",
+    "publish.css",
     "Algorithm/Concepts",
     "Algorithm",
     "Tools/Setup/Version Control/Obsidian Git 연동 가이드.md",
