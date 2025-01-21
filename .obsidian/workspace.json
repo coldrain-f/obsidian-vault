@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "67fb0150cc9b88df",
+        "id": "4a0d4931a4ebb0fa",
         "type": "tabs",
         "children": [
           {
-            "id": "c4fda1eaf35fea7b",
+            "id": "775ce5c8665944cd",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Tools/Setup/Version Control/Logseq Git 연동 가이드.md",
-                "bFile": "Tools/Setup/Version Control/Logseq Git 연동 가이드.md",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Logseq Git 연동 가이드"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -173,10 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4fda1eaf35fea7b",
+  "active": "90affdab810994c9",
   "lastOpenFiles": [
-    "Tools/Setup/Version Control/Logseq Git 연동 가이드.md",
+    "새 텍스트 문서.txt",
     "Tools/Setup/Version Control/Obsidian Git 연동 가이드.md",
+    "README.md",
+    "Tools/Setup/Version Control/Logseq Git 연동 가이드.md",
     "Tools/Setup/Version Control",
     "Tools/Setup",
     "Tools",
