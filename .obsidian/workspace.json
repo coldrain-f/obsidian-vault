@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Setup/Version Control/Obsidian Git 연동 가이드.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Git 연동 가이드"
+              "title": "Welcome"
             }
           }
         ]
@@ -174,21 +174,22 @@
       "publish:변경사항 출판": false
     }
   },
-  "active": "7dc693fc34091daf",
+  "active": "90affdab810994c9",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "Welcome.md",
+    "Tools/Setup/Version Control/Obsidian Git 연동 가이드.md",
     "README.md",
     "Algorithm/Concepts/순열과 조합.md",
     "Tools/Setup/Python 가상환경 설정 가이드.md",
     "conflict-files-obsidian-git.md",
     "Python 가상환경 설정.md",
     "Tools/Setup/Version Control/Logseq Git 연동 가이드.md",
-    "Home/Welcome.md",
     "Home",
     "logo.jpg",
     "publish.css",
     "Algorithm/Concepts",
     "Algorithm",
-    "Tools/Setup/Version Control/Obsidian Git 연동 가이드.md",
     "A.md",
     "새 텍스트 문서.txt",
     "Tools/Setup/Version Control",
