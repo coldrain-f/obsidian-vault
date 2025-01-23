@@ -2,5 +2,7 @@
   "siteId": "a639fde35f5eebb8065ecbdce74dd52d",
   "host": "publish-01.obsidian.md",
   "included": [],
-  "excluded": []
+  "excluded": [
+    "Draft"
+  ]
 }
