@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Setup/Python 가상환경 설정 가이드.md",
-                "mode": "preview",
+                "file": "Welcome.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python 가상환경 설정 가이드"
+              "title": "Welcome"
             }
           }
         ],
@@ -192,9 +192,9 @@
   "active": "80b33585b1566dc2",
   "lastOpenFiles": [
     "Draft/Python 가상환경 설정 가이드.md",
+    "Tools/Setup/Python 가상환경 설정 가이드.md",
     "무제 파일.md",
     "Draft",
-    "Tools/Setup/Python 가상환경 설정 가이드.md",
     "Python 설치 가이드.md",
     "Algorithm/Concepts/순열과 조합.md",
     "conflict-files-obsidian-git.md",
