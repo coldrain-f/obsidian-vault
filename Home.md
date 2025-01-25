@@ -13,9 +13,5 @@ Java와 JavaScript를 주로 사용하는 웹 개발자로 일하고 있으며, 
 
 정리한 지식을 공유하면서 많은 분이 도움을 받길 바라며, 함께 성장하고 지식을 나누는 공간이 되었으면 좋겠습니다. 감사합니다.
 
-> [!info] Contact
-> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-> https://github.com/coldrain-f
-> 
-> ![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white) 
-> sangwoonin@gmail.com
+Github: https://github.com/coldrain-f
+Email: sangwoonin@gmail.com

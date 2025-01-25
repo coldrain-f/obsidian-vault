@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/Setup/Python 가상환경 설정 가이드.md",
+                "file": "Programming/Python/Module/Python OS 모듈로 파일과 디렉토리 다루기.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python 가상환경 설정 가이드"
+              "title": "Python OS 모듈로 파일과 디렉토리 다루기"
             }
           },
           {
@@ -190,19 +190,22 @@
   },
   "active": "7dc693fc34091daf",
   "lastOpenFiles": [
-    "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
+    "Tools/Setup/Version Control/Obsidian Git 연동 가이드.md",
+    "Programming/Python/Module",
+    "Tools/Setup/Version Control/Logseq Git 연동 가이드.md",
     "Programming/Python/Setup/Python 가상환경 설정 가이드.md",
+    "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
+    "Programming/Python/Module/Python OS 모듈로 파일과 디렉토리 다루기.md",
+    "Draft/Python OS 모듈 다루기.md",
+    "Draft/Python 가상환경 설정 가이드.md",
+    "Home.md",
     "Programming/Python/Setup",
     "Programming/Python/LangChain",
     "Programming/Python/무제 파일.md",
     "Programming/Python",
     "Programming",
     "Langchain Markdown Loader 실습.md",
-    "Tools/Setup/Version Control/Logseq Git 연동 가이드.md",
     "logo.jpg",
-    "Tools/Setup/Version Control/Obsidian Git 연동 가이드.md",
-    "Welcome.md",
-    "Draft/Python 가상환경 설정 가이드.md",
     "Draft",
     "README.md",
     "Algorithm/Concepts/순열과 조합.md",
@@ -213,7 +216,6 @@
     "Algorithm/Concepts",
     "Algorithm",
     "A.md",
-    "새 텍스트 문서.txt",
     "Pasted image 20250121092442.png",
     "Pasted image 20250121091339.png",
     "Pasted image 20250120102408.png"
