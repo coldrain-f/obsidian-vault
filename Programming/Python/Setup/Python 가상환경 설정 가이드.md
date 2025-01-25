@@ -1,12 +1,16 @@
 ## 가상환경이란?
+
 Python 가상환경은 프로젝트별로 독립된 Python 실행 환경을 제공하는 도구입니다. 
 다음과 같은 이점이 있습니다:
+
 - 프로젝트별로 독립된 패키지 환경 구성 가능 (의존성 충돌 방지)
 - 시스템에 설치된 기본 Python에 영향을 주지 않고 프로젝트마다 필요한 패키지만 설치 가능 
 - Python 버전을 프로젝트별로 다르게 설정 가능
 
-> [!warning] Windows 사용자 주의사항
-> Windows 환경에서는 PowerShell 대신 CMD(Command Prompt)를 사용하는 것을 권장합니다. PowerShell에서는 권한 문제로 가상환경 생성이 실패할 수 있습니다.
+> [!WARNING]
+> - 본 문서는 Windows 환경에서 Python venv를 사용한 가상환경 설정을 기준으로 작성되었습니다
+> - Linux/Mac에서는 가상환경 활성화/비활성화 명령어가 다르며, 디렉토리 구조도 상이할 수 있습니다
+> - PowerShell 대신 CMD(Command Prompt) 사용을 권장합니다. PowerShell에서는 권한 문제로 가상환경 생성이 실패할 수 있습니다
 
 ## 1. 가상환경 생성 
 
@@ -91,6 +95,8 @@ openai
 pymupdf
 langchain-openai
 langchain-community
+fastapi
+uvicorn[standard]
 ```
 
 패키지 일괄 설치:

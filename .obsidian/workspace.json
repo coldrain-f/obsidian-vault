@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/Python 가상환경 설정 가이드.md",
+                "file": "Programming/Python/Setup/Python 가상환경 설정 가이드.md",
                 "mode": "preview",
                 "source": false
               },
@@ -22,21 +22,20 @@
             }
           },
           {
-            "id": "80b33585b1566dc2",
+            "id": "a3b2d55363c06b10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
+                "file": "Programming/Python/Setup/Python 가상환경 설정 가이드.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Python 가상환경 설정 가이드"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,30 +188,32 @@
       "publish:변경사항 출판": false
     }
   },
-  "active": "80b33585b1566dc2",
+  "active": "7dc693fc34091daf",
   "lastOpenFiles": [
+    "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
+    "Programming/Python/Setup/Python 가상환경 설정 가이드.md",
+    "Programming/Python/Setup",
+    "Programming/Python/LangChain",
+    "Programming/Python/무제 파일.md",
+    "Programming/Python",
+    "Programming",
+    "Langchain Markdown Loader 실습.md",
+    "Tools/Setup/Version Control/Logseq Git 연동 가이드.md",
+    "logo.jpg",
+    "Tools/Setup/Version Control/Obsidian Git 연동 가이드.md",
+    "Welcome.md",
     "Draft/Python 가상환경 설정 가이드.md",
-    "Tools/Setup/Python 가상환경 설정 가이드.md",
-    "무제 파일.md",
     "Draft",
-    "Python 설치 가이드.md",
+    "README.md",
     "Algorithm/Concepts/순열과 조합.md",
     "conflict-files-obsidian-git.md",
-    "Welcome.md",
-    "Tools/Setup/Version Control/Obsidian Git 연동 가이드.md",
-    "publish.css",
-    "logo.jpg",
-    "Home/Welcome.md",
+    "Python 가상환경 설정.md",
     "Home",
+    "publish.css",
     "Algorithm/Concepts",
     "Algorithm",
-    "Tools/Setup/Version Control/Logseq Git 연동 가이드.md",
-    "README.md",
     "A.md",
     "새 텍스트 문서.txt",
-    "Tools/Setup/Version Control",
-    "Tools/Setup",
-    "Tools",
     "Pasted image 20250121092442.png",
     "Pasted image 20250121091339.png",
     "Pasted image 20250120102408.png"
