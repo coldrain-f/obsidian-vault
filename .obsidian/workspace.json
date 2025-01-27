@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
-                "mode": "source",
+                "file": "Draft/HTTP API 정의서.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LangChain Markdown 문서 처리 가이드"
+              "title": "HTTP API 정의서"
             }
           },
           {
@@ -189,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,11 +204,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa0ce45db5e3b2f3",
+  "active": "90affdab810994c9",
   "lastOpenFiles": [
-    "Pasted image 20250126234324.png",
     "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
-    "Draft/무제 파일.md",
+    "Draft/HTTP API 정의서.md",
+    "Pasted image 20250126234324.png",
     "Tools/Setup/Version Control/Logseq Git 연동 가이드.md",
     "Excalidraw/Drawing 2025-01-26 20.35.37.excalidraw.md",
     "Programming/Python/Module/Python OS 모듈로 파일과 디렉토리 다루기.md",
