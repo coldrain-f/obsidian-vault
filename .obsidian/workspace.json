@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Draft/HTTP API 정의서.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -204,7 +204,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90affdab810994c9",
+  "active": "fa0ce45db5e3b2f3",
   "lastOpenFiles": [
     "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
     "Draft/HTTP API 정의서.md",
