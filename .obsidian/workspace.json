@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START HERE.md",
-                "mode": "preview",
+                "file": "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "START HERE"
+              "title": "LangChain Markdown 문서 처리 가이드"
             }
           }
         ]
@@ -175,13 +175,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90affdab810994c9",
+  "active": "4cff16d1fc664a2d",
   "lastOpenFiles": [
+    "Archives/즐겨찾기.md",
+    "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
+    "START HERE.md",
     "Reflections/Retrospective",
     "Reflections",
     "Archives/links",
     "무제 파일.md",
-    "START HERE.md",
     "assets/images/Welcome2.jpg",
     "assets/images/Welcome - 복사본.jpg",
     "assets/geometry-1023846_640.md",
@@ -196,7 +198,6 @@
     "새 폴더",
     "sketch-5146141_640.png",
     "Algorithm/Concepts/순열과 조합.md",
-    "Archives/즐겨찾기.md",
     "favicon-32x32.png",
     "Draft/HTTP API 정의서.md",
     "Programming/Python/Module/Python OS 모듈로 파일과 디렉토리 다루기.md",
@@ -204,8 +205,6 @@
     "Archives",
     "publish.js",
     "새 텍스트 문서.txt",
-    "publish.css",
-    "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
     "Pasted image 20250126234324.png",
     "Tools/Setup/Version Control/Logseq Git 연동 가이드.md",
     "Excalidraw/Drawing 2025-01-26 20.35.37.excalidraw.md",
