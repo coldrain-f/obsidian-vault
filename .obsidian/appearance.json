@@ -2,5 +2,7 @@
   "theme": "obsidian",
   "cssTheme": "Minimal",
   "textFontFamily": "Pretendard",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false
 }

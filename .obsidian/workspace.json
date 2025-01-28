@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "672d50375a7bf433",
+        "id": "6949f2a383025853",
         "type": "tabs",
         "children": [
           {
-            "id": "4cff16d1fc664a2d",
+            "id": "4384beee6edb0a32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
+                "file": "Programming/Python/Development/PyMuPDF로 PDF 파일 이미지로 변환하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LangChain Markdown 문서 처리 가이드"
+              "title": "PyMuPDF로 PDF 파일 이미지로 변환하기"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "START",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,11 +175,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4cff16d1fc664a2d",
+  "active": "4384beee6edb0a32",
   "lastOpenFiles": [
-    "Archives/즐겨찾기.md",
-    "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
+    "assets/images/images.md",
+    "Programming/Python/Development/PyMuPDF로 PDF 파일 이미지로 변환하기.md",
+    "Programming/Python/Development/Python OS 모듈로 파일과 디렉토리 다루기.md",
+    "Glossary",
     "START HERE.md",
+    "Archives/즐겨찾기.md",
+    "Tools/Tools.md",
+    "Programming/Programming.md",
+    "Programming/Python/Python.md",
+    "Archives/테스트.md",
+    "Archives/Archives.md",
+    "Algorithm/Algorithm.md",
+    "Draft/Draft.md",
+    "Draft/HTTP API 정의서.md",
+    "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
+    "Programming/무제 파일 1.md",
+    "Programming/무제 파일.md",
+    "assets/assets.md",
+    "Tags",
+    "Archives/Obsidian minimal 유용한 작성법 정리.md",
+    "Reflections/Retrospective/테스트.md",
     "Reflections/Retrospective",
     "Reflections",
     "Archives/links",
@@ -199,25 +217,10 @@
     "sketch-5146141_640.png",
     "Algorithm/Concepts/순열과 조합.md",
     "favicon-32x32.png",
-    "Draft/HTTP API 정의서.md",
-    "Programming/Python/Module/Python OS 모듈로 파일과 디렉토리 다루기.md",
     "Obsidian.md",
     "Archives",
-    "publish.js",
-    "새 텍스트 문서.txt",
     "Pasted image 20250126234324.png",
-    "Tools/Setup/Version Control/Logseq Git 연동 가이드.md",
-    "Excalidraw/Drawing 2025-01-26 20.35.37.excalidraw.md",
-    "Tools/Setup/Version Control/Obsidian Git 연동 가이드.md",
-    "Draft/Python OS 모듈 다루기.md",
-    "Draft/Python 가상환경 설정 가이드.md",
-    "Programming/Python/무제 파일.md",
-    "Langchain Markdown Loader 실습.md",
     "logo.jpg",
-    "README.md",
-    "conflict-files-obsidian-git.md",
-    "Python 가상환경 설정.md",
-    "A.md",
     "Pasted image 20250121092442.png"
   ]
 }
