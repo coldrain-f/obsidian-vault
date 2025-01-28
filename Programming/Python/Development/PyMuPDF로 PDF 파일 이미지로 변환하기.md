@@ -1,3 +1,8 @@
+---
+cssclasses:
+  - img-grid
+  - img-zoom
+---
 ## 이미지 변환하기
 
 ```python
@@ -39,6 +44,12 @@ def convert_pdf_to_images():
 DPI는 가로와 세로가 1인치(2.54cm)인 도화지에 들어가는 점의 개수를 의미합니다. 예를 들어 72 DPI는 가로와 세로가 1인치인 도화지에 점이 72개씩 들어있다고 생각하면 됩니다.
 
 고품질 인쇄용이 아닌, 웹 사이트에 간단히 디스플레이할 용도라면 72 DPI로 변환하는 것으로 충분합니다. DPI 값이 높을수록 이미지 파일의 용량도 커지므로, 변환된 이미지의 품질을 확인하면서 적절한 DPI 값을 찾아가면 됩니다.
+
+![pdf_72dpi](assets/images/pdf_72dpi.png)
+![pdf_300dpi](assets/images/pdf_300dpi.png)
+
+- 좌측: 72DPI, 50.1KB
+- 우측: 300DPI, 255KB
 
 ### Zoom 값 계산하기
 

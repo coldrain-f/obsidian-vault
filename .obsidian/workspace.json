@@ -177,11 +177,15 @@
   },
   "active": "4384beee6edb0a32",
   "lastOpenFiles": [
-    "assets/images/images.md",
-    "Programming/Python/Development/PyMuPDF로 PDF 파일 이미지로 변환하기.md",
     "Programming/Python/Development/Python OS 모듈로 파일과 디렉토리 다루기.md",
-    "Glossary",
     "START HERE.md",
+    "Programming/Python/Development/PyMuPDF로 PDF 파일 이미지로 변환하기.md",
+    "assets/images/pdf_300dpi.png",
+    "assets/images/pdf_72dpi.png",
+    "assets/pdf_72dpi.png",
+    "assets/pdf_300dpi.png",
+    "assets/images/images.md",
+    "Glossary",
     "Archives/즐겨찾기.md",
     "Tools/Tools.md",
     "Programming/Programming.md",
@@ -216,11 +220,7 @@
     "새 폴더",
     "sketch-5146141_640.png",
     "Algorithm/Concepts/순열과 조합.md",
-    "favicon-32x32.png",
     "Obsidian.md",
-    "Archives",
-    "Pasted image 20250126234324.png",
-    "logo.jpg",
-    "Pasted image 20250121092442.png"
+    "Archives"
   ]
 }
