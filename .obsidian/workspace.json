@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6949f2a383025853",
+        "id": "9707002e8c3f941e",
         "type": "tabs",
         "children": [
           {
-            "id": "4384beee6edb0a32",
+            "id": "0e045c5f6f7f4419",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archives/LLM(Large Language Model)의 주요 한계점.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LLM(Large Language Model)의 주요 한계점"
+              "title": "새 탭"
             }
           }
         ]
@@ -175,10 +171,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90affdab810994c9",
+  "active": "01e14c1af851ef6e",
   "lastOpenFiles": [
-    "Draft/무제 파일.md",
-    "Archives/LLM(Large Language Model)의 주요 한계점.md",
+    "Pasted image 20250130133944.png",
+    "Draft/RAG 프로세스.md",
+    "Excalidraw/RAG_전처리.md",
+    "Excalidraw/Drawing 2025-01-30 13.53.40.excalidraw.md",
+    "microsoft-fabric-architecture-icons.excalidrawlib",
+    "Computer Science/AI/LLM(Large Language Model)의 한계점.md",
+    "Computer Science/AI",
+    "Computer Science",
     "Draft/LLM(Large Language Model) 사내도입 보안 문제성.md",
     "Archives/한국과 일본 만 나이 계산하기.md",
     "Programming/Python/Development/PyMuPDF로 PDF 파일 이미지로 변환하기.md",
@@ -209,19 +211,12 @@
     "Reflections/Retrospective",
     "Reflections",
     "Archives/links",
-    "무제 파일.md",
     "assets/images/Welcome2.jpg",
     "assets/images/Welcome - 복사본.jpg",
-    "assets/geometry-1023846_640.md",
     "assets/images/Welcome.jpg",
     "assets/images",
     "assets/새 폴더",
     "assets/Welcome.jpg",
-    "assets/geometry-1023846_640.png.md",
-    "assets/sketch-5146141_640.png",
-    "assets",
-    "새 폴더",
-    "sketch-5146141_640.png",
-    "Archives"
+    "assets/sketch-5146141_640.png"
   ]
 }
