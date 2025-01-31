@@ -11,10 +11,14 @@
             "id": "0e045c5f6f7f4419",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "LangChain Markdown 문서 처리 가이드"
             }
           }
         ]
@@ -171,9 +175,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01e14c1af851ef6e",
+  "active": "0e045c5f6f7f4419",
   "lastOpenFiles": [
+    "Programming/Python/LangChain/LangChain 프롬프트 템플릿을 파일로 관리하기.md",
+    "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
+    "Programming/Python/LangChain/LangChain의 PromptTemplate 활용하기.md",
     "Pasted image 20250130133944.png",
+    "Programming/Python/Development/PyMuPDF로 PDF 파일 이미지로 변환하기.md",
     "Draft/RAG 프로세스.md",
     "Excalidraw/RAG_전처리.md",
     "Excalidraw/Drawing 2025-01-30 13.53.40.excalidraw.md",
@@ -183,7 +191,6 @@
     "Computer Science",
     "Draft/LLM(Large Language Model) 사내도입 보안 문제성.md",
     "Archives/한국과 일본 만 나이 계산하기.md",
-    "Programming/Python/Development/PyMuPDF로 PDF 파일 이미지로 변환하기.md",
     "Programming/Python/Development/Python OS 모듈로 파일과 디렉토리 다루기.md",
     "START HERE.md",
     "assets/images/pdf_300dpi.png",
@@ -201,13 +208,11 @@
     "Algorithm/Algorithm.md",
     "Draft/Draft.md",
     "Draft/HTTP API 정의서.md",
-    "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
     "Programming/무제 파일 1.md",
     "Programming/무제 파일.md",
     "assets/assets.md",
     "Tags",
     "Archives/Obsidian minimal 유용한 작성법 정리.md",
-    "Reflections/Retrospective/테스트.md",
     "Reflections/Retrospective",
     "Reflections",
     "Archives/links",
