@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
+                "file": "Programming/Python/LangChain/Streamlit에서 LangChain 활용하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LangChain Markdown 문서 처리 가이드"
+              "title": "Streamlit에서 LangChain 활용하기"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -164,21 +165,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
-      "publish:변경사항 출판": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "publish:변경사항 게재": false
     }
   },
   "active": "0e045c5f6f7f4419",
   "lastOpenFiles": [
-    "Programming/Python/LangChain/LangChain 프롬프트 템플릿을 파일로 관리하기.md",
     "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
+    "Programming/Python/LangChain/Streamlit에서 LangChain 활용하기.md",
+    "Programming/Python/LangChain/LangChain 프롬프트 템플릿을 파일로 관리하기.md",
     "Programming/Python/LangChain/LangChain의 PromptTemplate 활용하기.md",
     "Pasted image 20250130133944.png",
     "Programming/Python/Development/PyMuPDF로 PDF 파일 이미지로 변환하기.md",
@@ -212,7 +214,6 @@
     "Programming/무제 파일.md",
     "assets/assets.md",
     "Tags",
-    "Archives/Obsidian minimal 유용한 작성법 정리.md",
     "Reflections/Retrospective",
     "Reflections",
     "Archives/links",
