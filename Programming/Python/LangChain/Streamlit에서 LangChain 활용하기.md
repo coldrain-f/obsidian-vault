@@ -4,6 +4,7 @@ LangChain과 Streamlit을 함께 사용할 때 알아두면 유용한 두 가지
 # write_stream() - AI 응답 스트리밍하기
 
 Streamlit의 `write_stream()` 함수는 LangChain의 ChatOpenAI 모델과 완벽하게 호환됩니다. 이를 통해 AI 응답을 실시간으로 타이핑되는 것처럼 표시할 수 있습니다.
+## 기본 사용법
 
 ```python
 import streamlit as st
@@ -15,10 +16,22 @@ message_chunk = model.stream("대한민국의 수도는?")
 st.write_stream(message_chunk) # 정상 출력
 ```
 
-이 기능의 장점:
-- AI 모델의 응답을 실시간으로 확인 가능
-- 사용자 경험 향상
-- 간단한 구현 방식
+`write_stream()` 을 사용하면 AI 모델의 응답을 실시간으로 확인 가능합니다.
+
+## 전체 응답 반환받기
+
+```python
+import streamlit as st from langchain_openai
+import ChatOpenAI
+
+message_chunk = model.stream("대한민국의 수도는?")
+response = st.chat_message("assistant").write_stream(message_chunk)
+
+# 완성된 메시지 반환
+st.write(response)  # 대한민국의 수도는 서울입니다.
+```
+
+Streamlit의 `write_stream()` 메서드는 스트리밍으로 출력되는 응답을 화면에 표시하면서, 동시에 전체 응답 텍스트를 문자열로 반환합니다. 이는 생성된 응답을 나중에 재사용하거나 저장해야 할 때 특히 유용합니다.
 
 # chat_message() - 채팅 인터페이스 구현하기
 

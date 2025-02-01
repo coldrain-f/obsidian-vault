@@ -172,14 +172,17 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "publish:변경사항 게재": false
+      "publish:변경사항 게재": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "0e045c5f6f7f4419",
   "lastOpenFiles": [
-    "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
+    "Excalidraw/Drawing 2025-02-01 17.47.07.excalidraw.md",
     "Programming/Python/LangChain/Streamlit에서 LangChain 활용하기.md",
+    "Excalidraw/Drawing 2025-02-01 17.46.32.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-01 17.34.18.excalidraw.md",
+    "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
     "Programming/Python/LangChain/LangChain 프롬프트 템플릿을 파일로 관리하기.md",
     "Programming/Python/LangChain/LangChain의 PromptTemplate 활용하기.md",
     "Pasted image 20250130133944.png",
@@ -210,9 +213,6 @@
     "Algorithm/Algorithm.md",
     "Draft/Draft.md",
     "Draft/HTTP API 정의서.md",
-    "Programming/무제 파일 1.md",
-    "Programming/무제 파일.md",
-    "assets/assets.md",
     "Tags",
     "Reflections/Retrospective",
     "Reflections",
