@@ -4,5 +4,6 @@
   "textFontFamily": "Pretendard",
   "monospaceFontFamily": "JetBrains Mono",
   "baseFontSize": 16,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "nativeMenus": false
 }
