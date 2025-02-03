@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/VS Code에서 Vue 디버깅 하기.md",
+                "file": "Programming/Vue.js/Setup/VS Code에서 Vue 디버깅 하기.md",
                 "mode": "preview",
                 "source": false
               },
@@ -176,7 +176,10 @@
   },
   "active": "7dc693fc34091daf",
   "lastOpenFiles": [
-    "Draft/VS Code에서 Vue 디버깅 하기.md",
+    "Computer Science/AI/LLM(Large Language Model)의 한계점.md",
+    "Programming/Vue.js/Setup",
+    "Programming/Vue.js",
+    "Programming/Vue.js/Setup/VS Code에서 Vue 디버깅 하기.md",
     "Welcome.md",
     "publish_old.css",
     "publish.js",
@@ -198,13 +201,10 @@
     "Programming/Python/Setup",
     "Programming/Python/LangChain",
     "Programming/Python/Development",
-    "Programming/Python",
-    "Programming",
     "Obsidian/Updates/Obsidian v1.8.4 업데이트 내역.md",
     "Excalidraw/RAG_전처리.md",
     "Draft/RAG 프로세스.md",
     "Draft/HTTP API 정의서.md",
-    "Computer Science/AI/LLM(Large Language Model)의 한계점.md",
     "Archives/한국과 일본 만 나이 계산하기.md",
     "Archives/즐겨찾기.md",
     "Draft/Python 가상환경 설정 가이드.md",
@@ -216,7 +216,6 @@
     "Tools/Setup/Version Control/Obsidian Git 연동 가이드.md",
     "logo.jpg",
     "Home/Welcome.md",
-    "Tools/Setup/Version Control/Logseq Git 연동 가이드.md",
     "Pasted image 20250121092442.png",
     "Pasted image 20250121091339.png",
     "Pasted image 20250120102408.png"
