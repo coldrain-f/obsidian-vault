@@ -12,23 +12,24 @@ cssclasses:
 - 기본적인 채팅 API 엔드포인트 구현
 - 실제 ChatGPT 응답 테스트
 
-![Welcome](assets/images/spring-ai/01.png)
-
 # 프로젝트 생성
+
+![Welcome](assets/images/spring-ai/01.png)
 
 Spring Initializr를 통해 다음과 같은 스펙으로 프로젝트를 구성했습니다:
 
 - **빌드 도구**: Gradle (Groovy)
 - **Java 버전**: 17
-- **Spring Boot**: 3.4.2 (Spring AI 요구사항 충족)
+- **Spring Boot**: 3.4.2
 - **패키징**: War
 
 ## 주요 의존성
-- `Spring Web`: RestController 사용을 위해 추가
+- `Spring Web`: @RestController 사용을 위해 추가
 - `Spring Boot Dev Tools`: 개발 생산성 향상
 - `OpenAI`: OpenAI의 ChatGPT 연동을 위해 추가
 
-> 💡 **참고**: Spring AI 공식 문서에 따르면 2025년 2월 기준 Spring Boot 3.2.x 이상 버전이 필수입니다.
+>[!info]
+>Spring AI 공식 문서에 따르면 2025년 2월 기준 Spring Boot 3.2.x 이상 버전이 필요합니다.
 
 # 개발 환경 설정
 
@@ -36,7 +37,7 @@ Spring Initializr를 통해 다음과 같은 스펙으로 프로젝트를 구성
    - `File > Import > Gradle` 경로로 프로젝트를 불러옵니다.
 
 2. OpenAI API 키 설정:
-   초기 실행 시 다음과 같은 에러가 발생할 수 있습니다:
+   초기 실행 시 API 키를 설정하지 않으면 다음과 같은 에러가 발생할 수 있습니다:
    ```
    OpenAI API key must be set. Use the connection property: spring.ai.openai.api-key or spring.ai.openai.chat.api-key property.
    ```
@@ -72,6 +73,6 @@ public class ChatApiController {
 }
 ```
 
-ChatClient는 ChatClient.Builder 객체를 사용하여 생성됩니다.
+ChatClient 객체를 사용해서 AI Model에게 요청을 할 수 있고, 응답을 받아올 수 있습니다. ChatClient는 ChatClient.Builder 객체를 사용하여 생성합니다.
 
 실제 테스트 결과 "대한민국의 수도는 서울입니다."라는 응답을 받아 정상 작동을 확인했습니다.
