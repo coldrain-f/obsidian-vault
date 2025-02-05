@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/AI/LLM(Large Language Model)의 한계점.md",
+                "file": "Archives/즐겨찾기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM(Large Language Model)의 한계점"
+              "title": "즐겨찾기"
             }
           }
         ]
@@ -194,9 +194,17 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "01e14c1af851ef6e",
+  "active": "7e76edf3893c854c",
   "lastOpenFiles": [
+    "Programming/Python/LangChain/LangChain의 CharacterTextSplitter 사용하기.md",
+    "Programming/Python/LangChain/LangChain의 CharacterTextSplitter 사용하기.md",
+    "Programming/Python/LangChain/LangChain 프롬프트 템플릿을 파일로 관리하기.md",
+    "Programming/Python/LangChain/Streamlit에서 LangChain 활용하기.md",
+    "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
     "Computer Science/AI/LLM(Large Language Model)의 한계점.md",
+    "START HERE.md",
+    "assets/images/langchain/01.png",
+    "assets/images/langchain",
     "conflict-files-obsidian-git.md",
     "assets/images/spring-ai/01.PNG",
     "assets/images/spring-ai",
@@ -208,18 +216,14 @@
     "Programming/Spring/Spring AI/Spring AI ChatResponse.md",
     "Programming/Spring/Spring AI",
     "Programming/Spring",
-    "START HERE.md",
     "Programming/Python/Development/Python OS 모듈로 파일과 디렉토리 다루기.md",
     "Obsidian/Updates/Obsidian v1.8.4 업데이트 내역.md",
     "무제.canvas",
     "Obsidian/Updates",
     "Obsidian",
     "Excalidraw/Drawing 2025-02-01 17.47.07.excalidraw.md",
-    "Programming/Python/LangChain/Streamlit에서 LangChain 활용하기.md",
     "Excalidraw/Drawing 2025-02-01 17.46.32.excalidraw.md",
     "Excalidraw/Drawing 2025-02-01 17.34.18.excalidraw.md",
-    "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
-    "Programming/Python/LangChain/LangChain 프롬프트 템플릿을 파일로 관리하기.md",
     "Programming/Python/LangChain/LangChain의 PromptTemplate 활용하기.md",
     "Pasted image 20250130133944.png",
     "Programming/Python/Development/PyMuPDF로 PDF 파일 이미지로 변환하기.md",
@@ -228,7 +232,6 @@
     "Excalidraw/Drawing 2025-01-30 13.53.40.excalidraw.md",
     "microsoft-fabric-architecture-icons.excalidrawlib",
     "Computer Science/AI",
-    "Computer Science",
     "Draft/LLM(Large Language Model) 사내도입 보안 문제성.md",
     "Archives/한국과 일본 만 나이 계산하기.md",
     "assets/images/pdf_300dpi.png",
@@ -237,11 +240,8 @@
     "assets/pdf_300dpi.png",
     "assets/images/images.md",
     "Archives/즐겨찾기.md",
-    "Tools/Tools.md",
-    "Programming/Programming.md",
     "assets/images/Welcome2.jpg",
     "assets/images/Welcome - 복사본.jpg",
-    "assets/images/Welcome.jpg",
-    "assets/Welcome.jpg"
+    "assets/images/Welcome.jpg"
   ]
 }
