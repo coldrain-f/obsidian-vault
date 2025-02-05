@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e2b1d4e9836014ee",
+        "id": "1a0cdb7b1f588f43",
         "type": "tabs",
         "children": [
           {
-            "id": "b794122ec46fa2e4",
+            "id": "7e76edf3893c854c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "무제.canvas",
-                "bFile": "무제.canvas",
-                "aRef": ""
+                "file": "Computer Science/AI/LLM(Large Language Model)의 한계점.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 무제.canvas"
+              "icon": "lucide-file",
+              "title": "LLM(Large Language Model)의 한계점"
             }
           }
         ]
@@ -127,12 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Computer Science/AI/LLM(Large Language Model)의 한계점.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "LLM(Large Language Model)의 한계점 의 개요"
             }
           },
           {
@@ -179,24 +180,21 @@
       }
     ],
     "direction": "horizontal",
-    "width": 562.5
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:빠른 전환기 열기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "markdown-importer:마크다운 형식 불러오기 열기": false,
-      "publish:변경사항 게재": false,
-      "workspaces:작업 공간 레이아웃 관리": false
+      "publish:변경사항 게재": false
     }
   },
-  "active": "b794122ec46fa2e4",
+  "active": "7e76edf3893c854c",
   "lastOpenFiles": [
     "START HERE.md",
     "Programming/Python/Development/Python OS 모듈로 파일과 디렉토리 다루기.md",
