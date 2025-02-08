@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archives/즐겨찾기.md",
+                "file": "Archives/Timeline 테스트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "즐겨찾기"
+              "title": "Timeline 테스트"
             }
           }
         ]
@@ -196,6 +196,8 @@
   },
   "active": "7e76edf3893c854c",
   "lastOpenFiles": [
+    "Archives/즐겨찾기.md",
+    "Archives/Timeline 테스트.md",
     "Programming/Python/LangChain/LangChain의 CharacterTextSplitter 사용하기.md",
     "Programming/Python/LangChain/LangChain의 CharacterTextSplitter 사용하기.md",
     "Programming/Python/LangChain/LangChain 프롬프트 템플릿을 파일로 관리하기.md",
@@ -238,8 +240,6 @@
     "assets/images/pdf_72dpi.png",
     "assets/pdf_72dpi.png",
     "assets/pdf_300dpi.png",
-    "assets/images/images.md",
-    "Archives/즐겨찾기.md",
     "assets/images/Welcome2.jpg",
     "assets/images/Welcome - 복사본.jpg",
     "assets/images/Welcome.jpg"
