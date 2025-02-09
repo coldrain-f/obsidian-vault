@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archives/샘플.md",
+                "file": "SuperMemo/규칙 6. 이미지 사용하기.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "샘플"
+              "title": "규칙 6. 이미지 사용하기"
             }
           }
         ]
@@ -196,9 +196,22 @@
   },
   "active": "7e76edf3893c854c",
   "lastOpenFiles": [
+    "Archives/샘플.md",
+    "SuperMemo/규칙 6. 이미지 사용하기.md",
+    "START HERE.md",
+    "assets/images/super-memo/tanzania.gif",
+    "assets/images/super-memo/tanzania.gif.crdownload",
+    "assets/images/super-memo",
+    "assets/images/새 폴더",
+    "SuperMemo/규칙 5. 빈칸 채우기는 쉽고 효과적입니다.md",
+    "SuperMemo/규칙 4. 최소 정보 원칙을 고수하세요.md",
+    "SuperMemo/규칙 5..md",
+    "SuperMemo/규칙 3. 기초를 바탕으로 구축하세요.md",
+    "SuperMemo/규칙 2. 암기하기 전에 학습하세요.md",
+    "SuperMemo/규칙 1. 이해하지 못한 것은 학습하지 마세요.md",
+    "SuperMemo",
     "Programming/Spring/Spring AI/Spring AI PromptTemplate.md",
     "Programming/Python/LangChain/LangChain 프롬프트 템플릿을 파일로 관리하기.md",
-    "Archives/샘플.md",
     "Archives/즐겨찾기.md",
     "Archives/Timeline 테스트.md",
     "conflict-files-obsidian-git.md",
@@ -208,7 +221,6 @@
     "Programming/Python/LangChain/Streamlit에서 LangChain 활용하기.md",
     "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
     "Computer Science/AI/LLM(Large Language Model)의 한계점.md",
-    "START HERE.md",
     "assets/images/langchain/01.png",
     "assets/images/langchain",
     "assets/images/spring-ai/01.PNG",
@@ -223,25 +235,12 @@
     "Programming/Python/Development/Python OS 모듈로 파일과 디렉토리 다루기.md",
     "Obsidian/Updates/Obsidian v1.8.4 업데이트 내역.md",
     "무제.canvas",
-    "Obsidian/Updates",
-    "Obsidian",
-    "Excalidraw/Drawing 2025-02-01 17.47.07.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-01 17.46.32.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-01 17.34.18.excalidraw.md",
-    "Programming/Python/LangChain/LangChain의 PromptTemplate 활용하기.md",
     "Pasted image 20250130133944.png",
-    "Programming/Python/Development/PyMuPDF로 PDF 파일 이미지로 변환하기.md",
-    "Draft/RAG 프로세스.md",
-    "Excalidraw/RAG_전처리.md",
-    "Excalidraw/Drawing 2025-01-30 13.53.40.excalidraw.md",
-    "microsoft-fabric-architecture-icons.excalidrawlib",
-    "Computer Science/AI",
     "assets/images/pdf_300dpi.png",
     "assets/images/pdf_72dpi.png",
     "assets/pdf_72dpi.png",
     "assets/pdf_300dpi.png",
     "assets/images/Welcome2.jpg",
-    "assets/images/Welcome - 복사본.jpg",
-    "assets/images/Welcome.jpg"
+    "assets/images/Welcome - 복사본.jpg"
   ]
 }
