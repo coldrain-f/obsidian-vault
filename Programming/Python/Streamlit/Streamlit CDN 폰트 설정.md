@@ -6,13 +6,13 @@ import streamlit as st
 # 전체 폰트 설정
 st.markdown(
     """
-            <style>
-				@import url(".../dist/web/static/pretendard.min.css");
-	            * {
-	                font-family: 'Pretendard' !important
-	            }
-            </style>
-            """,
+	<style>
+		@import url(".../dist/web/static/pretendard.min.css");
+		* {
+			font-family: 'Pretendard' !important
+		}
+	</style>
+	""",
     unsafe_allow_html=True,
 )
 ```
