@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START HERE.md",
+                "file": "Programming/Python/Streamlit/Streamlit CDN 폰트 설정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "START HERE"
+              "title": "Streamlit CDN 폰트 설정"
             }
           }
         ]
@@ -194,10 +194,16 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "a0452b8e1477d089",
+  "active": "90affdab810994c9",
   "lastOpenFiles": [
-    "Timeline.md",
+    "Programming/Python/Streamlit",
     "START HERE.md",
+    "Programming/Python/Streamlit/Streamlit CDN 폰트 설정.md",
+    "Archives/draft/01-RAG-Practice.ipynb",
+    "Archives/draft/RAG 과제 1.md",
+    "01-RAG-Practice.ipynb",
+    "Archives/draft",
+    "Timeline.md",
     "SuperMemo/규칙 10. 열거형을 피하세요..md",
     "SuperMemo/규칙 9. 집합을 피하세요..md",
     "SuperMemo/규칙 8. 그래픽 삭제는 빈칸 채우기만큼 좋습니다..md",
@@ -226,16 +232,10 @@
     "Programming/Python/LangChain/LangChain의 CharacterTextSplitter 사용하기.md",
     "Programming/Python/LangChain/LangChain의 CharacterTextSplitter 사용하기.md",
     "Programming/Python/LangChain/Streamlit에서 LangChain 활용하기.md",
-    "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
-    "Computer Science/AI/LLM(Large Language Model)의 한계점.md",
     "assets/images/langchain/01.png",
     "assets/images/langchain",
     "assets/images/spring-ai/01.PNG",
     "assets/images/spring-ai",
-    "Programming/Vue.js/Setup/VS Code에서 Vue 디버깅 설정.md",
-    "Programming/Vue.js/Setup",
-    "Programming/Vue.js",
-    "Programming/Spring/Spring AI",
     "무제.canvas",
     "Pasted image 20250130133944.png",
     "assets/images/pdf_300dpi.png",
