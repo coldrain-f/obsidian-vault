@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SuperMemo/규칙 6. 이미지 사용하기.md",
-                "mode": "preview",
-                "source": true
+                "file": "SuperMemo/규칙 10. 열거형을 피하세요..md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "규칙 6. 이미지 사용하기"
+              "title": "규칙 10. 열거형을 피하세요."
             }
           }
         ]
@@ -196,17 +196,23 @@
   },
   "active": "7e76edf3893c854c",
   "lastOpenFiles": [
-    "Archives/샘플.md",
+    "SuperMemo/규칙 9. 집합을 피하세요..md",
+    "SuperMemo/규칙 10. 열거형을 피하세요..md",
+    "SuperMemo/규칙 8. 그래픽 삭제는 빈칸 채우기만큼 좋습니다..md",
     "SuperMemo/규칙 6. 이미지 사용하기.md",
+    "SuperMemo/규칙 5. 빈칸 채우기는 쉽고 효과적입니다.md",
+    "SuperMemo/규칙 4. 최소 정보 원칙을 고수하세요.md",
+    "SuperMemo/규칙 7. 기억술 기법(Mnemonic techniques) 활용하기.md",
+    "assets/images/super-memo/element.jpg",
+    "assets/images/super-memo/element.jpg.crdownload",
+    "SuperMemo/규칙 3. 기초를 바탕으로 구축하세요.md",
+    "Archives/샘플.md",
     "START HERE.md",
     "assets/images/super-memo/tanzania.gif",
     "assets/images/super-memo/tanzania.gif.crdownload",
     "assets/images/super-memo",
     "assets/images/새 폴더",
-    "SuperMemo/규칙 5. 빈칸 채우기는 쉽고 효과적입니다.md",
-    "SuperMemo/규칙 4. 최소 정보 원칙을 고수하세요.md",
     "SuperMemo/규칙 5..md",
-    "SuperMemo/규칙 3. 기초를 바탕으로 구축하세요.md",
     "SuperMemo/규칙 2. 암기하기 전에 학습하세요.md",
     "SuperMemo/규칙 1. 이해하지 못한 것은 학습하지 마세요.md",
     "SuperMemo",
@@ -229,18 +235,13 @@
     "Programming/Vue.js/Setup",
     "Programming/Vue.js",
     "Programming/Spring/Spring AI/Spring AI 시작하기.md",
-    "Programming/Spring/Spring AI/Spring AI ChatResponse.md",
     "Programming/Spring/Spring AI",
-    "Programming/Spring",
-    "Programming/Python/Development/Python OS 모듈로 파일과 디렉토리 다루기.md",
-    "Obsidian/Updates/Obsidian v1.8.4 업데이트 내역.md",
     "무제.canvas",
     "Pasted image 20250130133944.png",
     "assets/images/pdf_300dpi.png",
     "assets/images/pdf_72dpi.png",
     "assets/pdf_72dpi.png",
     "assets/pdf_300dpi.png",
-    "assets/images/Welcome2.jpg",
-    "assets/images/Welcome - 복사본.jpg"
+    "assets/images/Welcome2.jpg"
   ]
 }
