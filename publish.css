@@ -7,6 +7,15 @@ Copyright (c) 2020-2024 Steph Ango (@kepano)
 /* Adjust the following variables or find more at the link below */
 /* https://docs.obsidian.md/Reference/CSS+variables/CSS+variables */
 
+/* Mermaid */
+tspan {
+	font-family: 'Pretendard' !important;
+}
+text {
+	font-family: 'Pretendard' !important;
+	color: #0F0F0F !important;
+}
+
 body {
 	/* Font Family */
 	--font-text-theme: 'Pretendard';

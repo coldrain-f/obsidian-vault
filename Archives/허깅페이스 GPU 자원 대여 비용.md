@@ -1,6 +1,0 @@
-  
-Easily deploy machine learning models on dedicated infrastructure with 🤗 Inference Endpoints. When you create an Endpoint, you can select the instance type to deploy and scale your model according to an hourly rate. 🤗 Inference Endpoints is accessible to Hugging Face accounts with an active subscription and credit card on file. At the end of the subscription period, the user or organization account will be charged for the compute resources used while successfully deployed Endpoints (ready to serve) are _initializing_ and in a _running_ state. You can find the hourly pricing for all available instances for 🤗 Inference Endpoints, and examples of how costs are calculated below. While the prices are shown by the hour, the actual cost is calculated by the minute.
-
-🤗 Inference Endpoints를 통해 전용 인프라에서 머신러닝 모델을 쉽게 배포하세요. Endpoint를 생성할 때 시간당 요금에 따라 모델을 배포하고 확장할 인스턴스 유형을 선택할 수 있습니다. 🤗 Inference Endpoints는 활성 구독과 신용카드가 등록된 Hugging Face 계정에서 이용할 수 있습니다. 구독 기간이 종료되면, 성공적으로 배포된 Endpoint가 _초기화_ 및 _실행_ 상태에서 사용한 컴퓨팅 리소스에 대해 사용자 또는 조직 계정으로 요금이 청구됩니다.
-
-🤗 Inference Endpoints에서 사용 가능한 모든 인스턴스의 시간당 요금과 비용 계산 예시를 아래에서 확인할 수 있습니다. **요금은 시간 단위로 표시되지만, 실제 비용은 분 단위로 계산됩니다.**
