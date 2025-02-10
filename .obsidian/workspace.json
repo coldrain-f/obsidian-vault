@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/Streamlit/Streamlit CDN 폰트 설정.md",
+                "file": "Programming/Python/LangChain/LangGraph 기본 요소.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Streamlit CDN 폰트 설정"
+              "title": "LangGraph 기본 요소"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 384.5
   },
   "right": {
     "id": "b292126d1153af91",
@@ -194,13 +194,14 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "01e14c1af851ef6e",
+  "active": "a0452b8e1477d089",
   "lastOpenFiles": [
+    "Programming/Python/Streamlit/Streamlit CDN 폰트 설정.md",
+    "Programming/Python/LangChain/LangGraph 기본 요소.md",
     "Archives/draft/가이드 샘플.md",
     "Archives/draft/HTTP API 정의서 샘플.md",
     "Programming/Python/Streamlit",
     "START HERE.md",
-    "Programming/Python/Streamlit/Streamlit CDN 폰트 설정.md",
     "Archives/draft/01-RAG-Practice.ipynb",
     "Archives/draft/RAG 과제 1.md",
     "01-RAG-Practice.ipynb",
@@ -231,7 +232,6 @@
     "Archives/Timeline 테스트.md",
     "conflict-files-obsidian-git.md",
     "Archives/허깅페이스 GPU 자원 대여 비용.md",
-    "Programming/Python/LangChain/LangChain의 CharacterTextSplitter 사용하기.md",
     "Programming/Python/LangChain/LangChain의 CharacterTextSplitter 사용하기.md",
     "assets/images/langchain/01.png",
     "assets/images/langchain",
