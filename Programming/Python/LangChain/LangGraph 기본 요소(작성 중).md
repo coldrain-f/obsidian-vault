@@ -24,10 +24,6 @@ LangGraph에서 노드와 노드 간에 정보를 전달할 때에는 상태(Sta
 
 첫 번째 인자에 `list`를 지정하고 두 번째 인자에 `add_messages`를 지정해 주면 question은 값을 덮어 씌우는 게 아니라 계속해서 list에 추가가 된다는 특징이 있습니다.
 
-## 두 번째 특징
-
-question, context, messages 3개로 정의가 되어있지만 노드에 상태를 전달할 때에는 이 세 개를 전부 채우지 않아도 된다는 특징이 있습니다.
-
 ### LangChain add_messages 미사용
 
 ```python
@@ -42,7 +38,7 @@ add_messages = message2 # [AIMessage(context="Hi", id=2)]
 
 ```
 
-add_messages에 기존 message1은 사라지고 message2로 덮어 씌워진다.
+add_messages에 기존 message1은 사라지고 message2로 덮어 씌워집니다.
 
 ### LangChain ad_messages 사용
 
@@ -61,5 +57,9 @@ add_messages(message2)
 
 ```
 
-LangGraph의 `add_messages`를 사용하면 계속해서 누적된다.
+LangGraph의 `add_messages`를 사용하면 계속해서 누적됩니다.
 
+
+## 두 번째 특징
+
+question, context, messages 3개로 정의가 되어있지만 노드에 상태를 전달할 때에는 이 세 개를 전부 채우지 않아도 된다는 특징이 있습니다.
