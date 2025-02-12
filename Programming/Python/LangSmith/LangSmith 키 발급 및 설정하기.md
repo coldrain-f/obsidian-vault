@@ -3,29 +3,43 @@ cssclasses:
   - img-grid
   - img-zoom
 ---
-# 키 발급받기
+# 개요
 
-LangChain을 이용하여 LLM 시스템을 개발하다보면 계속해서 파이프라인이 복잡해지는 경우가 생깁니다. 복잡도가 올라가면 올라갈 수록 어떤 부분에서 문제가 생기는지 추적하기가 어려워 지는데 LangSmith를 활용하면 추적을 쉽게 할 수 있습니다.
+LangSmith는 LangChain 생태계에서 LLM 애플리케이션의 개발, 테스트, 모니터링을 위한 강력한 도구입니다. 이 글에서는 LangSmith를 시작하는 데 필요한 기본적인 설정 방법을 알아보겠습니다.
 
-[LangSmith](http://smith.langchain.com)에 들어가서 회원가입 후 로그인을 합니다.
+- LangSmith 소개 및 필요성
+- API 키 발급 방법
+- 환경 변수 설정하기
+- 실제 구현 및 확인
 
-왼쪽 사이드바에 톱니바퀴 아이콘(Settings)에 진입 후 우측 상단에 있는 Create API Key 버튼을 눌러서 키를 발급 후 외부로 유출되지 않도록 잘 보관해 주세요.
+# LangSmith 소개
 
-# 환경변수 설정
+LLM 시스템 개발 시 파이프라인이 복잡해질수록 디버깅과 성능 최적화가 어려워집니다. LangSmith는 이러한 문제를 해결하기 위한 도구로, 개발 과정에서 발생하는 다양한 이슈를 추적하고 분석할 수 있게 해줍니다.
 
-```.env
+# API 키 발급받기
+
+1. [LangSmith 웹사이트](http://smith.langchain.com)에 접속
+2. 회원가입 및 로그인
+3. 왼쪽 사이드바의 Settings(톱니바퀴 아이콘) 클릭
+4. 우측 상단의 'Create API Key' 버튼을 통해 키 발급
+5. 발급받은 키는 보안을 위해 안전하게 보관
+
+# 환경 변수 설정하기
+
+프로젝트 루트 디렉토리에 `.env` 파일을 생성하고 다음 내용을 입력합니다:
+
+```env
 LANGSMITH_TRACING=true
 LANGSMITH_ENDPOINT="https://api.smith.langchain.com"
 LANGSMITH_API_KEY="당신의-API-KEY"
 LANGSMITH_PROJECT="프로젝트-이름"
 ```
 
-이후 자신의 프로젝트에 `.env`파일을 생성 후 위와 같이 복사해 줍니다.
-`LANGSMITH_API_KEY` 부분에 발급 받은 LangSmith의 API 키를 입력 후 원하는 프로젝트 이름을 적어주시면 기본 설정이 완료됩니다.
+*주의사항: LangSmith의 업데이트에 따라 환경 변수 설정이 변경될 수 있으므로, 공식 문서의 'Get Started' 섹션에서 최신 설정 방법을 확인하시기 바랍니다.*
 
-`.env`파일에 들어가는 내용은 LangSmith가 업데이트되면서 바뀔 수 있으니 공식 사이트의 Get Started에서 Set up tracing 부분을 확인해 보시는 것을 권장드립니다.
+# 동작 확인하기
 
-# 동작 확인
+다음과 같은 간단한 Python 코드로 LangSmith 설정이 제대로 되었는지 확인할 수 있습니다:
 
 ```python
 from langchain_openai import ChatOpenAI
@@ -35,13 +49,10 @@ load_dotenv()
 
 model = ChatOpenAI(model_name="gpt-4o-mini")
 print(model.invoke("대한민국의 수도는?"))
-
 ```
 
-LangChain으로 기본적인 코드를 작성해 주고 실행하면 추적이 시작됩니다.
+코드를 실행하면 LangSmith 대시보드에서 설정한 프로젝트 이름으로 추적 정보가 기록되는 것을 확인할 수 있습니다. 이를 통해 모델의 응답, 실행 시간, 토큰 사용량 등 다양한 메트릭을 모니터링할 수 있습니다.
 
-![이미지1](assets/images/langsmith/01.png)
+# 마무리
 
-LangSmith 대시보드에 들어가서 확인해 보면 환경설정 변수에 설정한 프로젝트 이름으로 추적되는 것을 확인해볼 수 있습니다.
-
-![이미지2](assets/images/langsmith/02.png)
+LangSmith는 LLM 애플리케이션 개발 과정에서 발생하는 다양한 문제를 효과적으로 추적하고 해결할 수 있게 해주는 도구입니다. 위의 설정을 완료하면 본격적인 LangSmith 사용을 시작할 수 있습니다.
