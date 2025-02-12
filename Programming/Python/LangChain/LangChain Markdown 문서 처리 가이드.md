@@ -28,11 +28,13 @@ LangChain을 사용하여 Markdown 문서를 처리하는 방법을 설명하는
 ## Langchain 기본 패키지 
 아래는 LangChain 사용을 위한 핵심 패키지들입니다:
 ```txt
-langchain        
+langchain
+langgraph
+langsmith
 faiss-cpu       
 openai            
 langchain-openai 
-langchain-community 
+langchain-community
 ```
 모든 패키지를 `packages.txt`에 기록하고 일괄 설치하면 편리합니다. 자세한 방법은 [[Programming/Python/Setup/Python 가상환경 설정 가이드#패키지 일괄 설치|패키지 일괄 설치 가이드]]를 참고하세요.
 

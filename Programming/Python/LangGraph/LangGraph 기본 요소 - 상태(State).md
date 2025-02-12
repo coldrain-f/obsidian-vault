@@ -49,6 +49,8 @@ add_messages([AIMessage(context="Hi", id=2)])        # 두 번째 메시지 누�
 # 결과: [HumanMessage(...), AIMessage(...)]
 ```
 
+add_messages는 일반적으로 메시지를 누적하지만, 동일한 id를 가진 메시지가 있을 경우 누적하지 않고 기존 메시지를 새로운 메시지로 대체합니다.
+
 # State 객체의 유연성
 State 객체의 또 다른 특징은 유연한 사용성입니다. GraphState에 정의된 세 가지 필드(question, context, messages)를 모두 채울 필요가 없습니다. 필요한 필드만 선택적으로 사용할 수 있어 효율적인 데이터 전달이 가능합니다.
 

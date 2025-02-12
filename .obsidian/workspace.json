@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archives/즐겨찾기.md",
-                "mode": "preview",
+                "file": "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "즐겨찾기"
+              "title": "LangChain Markdown 문서 처리 가이드"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "가상환경",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,9 +191,10 @@
   },
   "active": "a4a05e75b44192be",
   "lastOpenFiles": [
+    "Programming/Python/LangGraph/LangGraph 기본 요소 - 상태(State).md",
+    "Archives/즐겨찾기.md",
     "Programming/Python/Streamlit/Streamlit에서 LangChain 활용하기.md",
     "Archives/Draft/HTTP API 정의서 샘플.md",
-    "Programming/Python/LangGraph/LangGraph 기본 요소 - 상태(State).md",
     "Programming/Python/LangGraph",
     "Programming/Python/LangSmith/LangSmith 키 발급 및 설정하기.md",
     "assets/images/langsmith/02.png",
@@ -207,7 +208,6 @@
     "Programming/Python/LangSmith",
     "Programming/Python/무제.md",
     "Programming/Python/LangChain/무제.md",
-    "Archives/즐겨찾기.md",
     "Archives/Draft/한국과 일본 만 나이 계산하기.md",
     "Archives/Draft/RAG 프로세스.md",
     "Archives/OmniEsol.md",
