@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "78395c6f89df463a",
+        "id": "1a0cdb7b1f588f43",
         "type": "tabs",
         "children": [
           {
-            "id": "a4a05e75b44192be",
+            "id": "a0452b8e1477d089",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LangChain Markdown 문서 처리 가이드"
+              "title": "새 탭"
             }
           }
         ]
@@ -40,8 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "가상환경",
+                "query": "START",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 384.5
   },
   "right": {
     "id": "b292126d1153af91",
@@ -122,28 +118,18 @@
             }
           },
           {
-            "id": "8a1143f477bc37a8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "8b48e402488c019b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Setup/Version Control/Obsidian Git 연동 가이드.md"
+                "file": "Computer Science/AI/LLM(Large Language Model)의 한계점.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Obsidian Git 연동 가이드 개요"
+              "title": "LLM(Large Language Model)의 한계점 의 개요"
             }
           },
           {
@@ -157,7 +143,7 @@
             }
           },
           {
-            "id": "4a8dee15f9b982ca",
+            "id": "2154f83d154cf2bb",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -169,72 +155,89 @@
               "icon": "lucide-archive",
               "title": "모든 속성"
             }
+          },
+          {
+            "id": "b754d51778ed3f99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:빠른 전환기 열기": false,
-      "markdown-importer:마크다운 형식 불러오기 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:그래프 뷰 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "publish:변경사항 게재": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "markdown-importer:마크다운 형식 불러오기 열기": false,
+      "publish:변경사항 게재": false
     }
   },
-  "active": "a4a05e75b44192be",
+  "active": "01e14c1af851ef6e",
   "lastOpenFiles": [
-    "Programming/Python/LangGraph/LangGraph 기본 요소 - 상태(State).md",
-    "Archives/즐겨찾기.md",
-    "Programming/Python/Streamlit/Streamlit에서 LangChain 활용하기.md",
-    "Archives/Draft/HTTP API 정의서 샘플.md",
-    "Programming/Python/LangGraph",
-    "Programming/Python/LangSmith/LangSmith 키 발급 및 설정하기.md",
-    "assets/images/langsmith/02.png",
     "assets/images/spring-ai/02.png",
-    "START HERE.md",
+    "assets/images/langsmith/02.png",
     "assets/images/langsmith/01.png",
-    "assets/images/langsmith/LangSmith1.png",
     "assets/images/langsmith",
-    "assets/images/새 폴더",
-    "Archives/Draft/가이드 샘플.md",
+    "Programming/Python/Streamlit/Streamlit에서 LangChain 활용하기.md",
+    "Programming/Python/LangSmith/LangSmith 키 발급 및 설정하기.md",
     "Programming/Python/LangSmith",
-    "Programming/Python/무제.md",
-    "Programming/Python/LangChain/무제.md",
-    "Archives/Draft/한국과 일본 만 나이 계산하기.md",
-    "Archives/Draft/RAG 프로세스.md",
-    "Archives/OmniEsol.md",
-    "conflict-files-obsidian-git.md",
-    "assets/images/super-memo/tanzania.gif",
-    "assets/images/super-memo/element.jpg",
-    "assets/images/super-memo",
+    "Programming/Python/LangGraph/LangGraph 기본 요소 - 상태(State).md",
+    "Programming/Python/LangGraph",
+    "Programming/Python/Streamlit/Streamlit CDN 폰트 설정.md",
+    "Programming/Python/LangChain/LangGraph 기본 요소(작성 중).md",
+    "Archives/draft/가이드 샘플.md",
+    "Archives/draft/HTTP API 정의서 샘플.md",
+    "Programming/Python/Streamlit",
+    "START HERE.md",
+    "Archives/draft/01-RAG-Practice.ipynb",
+    "Archives/draft/RAG 과제 1.md",
+    "01-RAG-Practice.ipynb",
+    "Archives/draft",
+    "Timeline.md",
+    "SuperMemo/규칙 10. 열거형을 피하세요..md",
     "SuperMemo/규칙 9. 집합을 피하세요..md",
     "SuperMemo/규칙 8. 그래픽 삭제는 빈칸 채우기만큼 좋습니다..md",
-    "SuperMemo/규칙 7. 기억술 기법(Mnemonic techniques) 활용하기.md",
     "SuperMemo/규칙 6. 이미지 사용하기.md",
     "SuperMemo/규칙 5. 빈칸 채우기는 쉽고 효과적입니다.md",
     "SuperMemo/규칙 4. 최소 정보 원칙을 고수하세요.md",
+    "SuperMemo/규칙 7. 기억술 기법(Mnemonic techniques) 활용하기.md",
+    "assets/images/super-memo/element.jpg",
+    "assets/images/super-memo/element.jpg.crdownload",
     "SuperMemo/규칙 3. 기초를 바탕으로 구축하세요.md",
+    "Archives/샘플.md",
+    "assets/images/super-memo/tanzania.gif",
+    "assets/images/super-memo/tanzania.gif.crdownload",
+    "assets/images/super-memo",
+    "SuperMemo/규칙 5..md",
     "SuperMemo/규칙 2. 암기하기 전에 학습하세요.md",
-    "SuperMemo/규칙 10. 열거형을 피하세요..md",
     "SuperMemo/규칙 1. 이해하지 못한 것은 학습하지 마세요.md",
-    "SuperMemo",
-    "Programming/Python/Streamlit/Streamlit CDN 폰트 설정.md",
-    "Programming/Python/Streamlit",
-    "Archives/Draft/01-RAG-Practice.ipynb",
-    "Archives/Draft",
-    "01-RAG-Practice.ipynb",
-    "Archives/허깅페이스 GPU 자원 대여 비용.md",
+    "Programming/Spring/Spring AI/Spring AI PromptTemplate.md",
+    "Programming/Python/LangChain/LangChain 프롬프트 템플릿을 파일로 관리하기.md",
+    "Archives/즐겨찾기.md",
     "assets/images/langchain/01.png",
-    "assets/images/Welcome.jpg",
     "assets/images/spring-ai/01.PNG",
-    "Pasted image 20250204094738.png"
+    "무제.canvas",
+    "Pasted image 20250130133944.png",
+    "assets/images/pdf_300dpi.png",
+    "assets/images/pdf_72dpi.png",
+    "assets/pdf_72dpi.png"
   ]
 }
