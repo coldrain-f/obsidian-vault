@@ -4,6 +4,8 @@
   "included": [],
   "excluded": [
     "Draft",
-    "Excalidraw"
+    "Excalidraw",
+    "Settings",
+    "Settings/Templates"
   ]
 }
