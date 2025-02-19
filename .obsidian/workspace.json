@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tools/Setup/Docker/VS Code Dev Containers 사용하기.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -182,15 +182,14 @@
   "left-ribbon": {
     "hiddenItems": {
       "markdown-importer:마크다운 형식 불러오기 열기": false,
-      "publish:변경사항 게재": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "publish:변경사항 게재": false
     }
   },
   "active": "2758426216e9fb19",

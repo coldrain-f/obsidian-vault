@@ -1,26 +1,27 @@
-DevContainer는 개발 환경을 일관되게 유지하고 팀원들과 동일한 환경에서 작업할 수 있게 해주는 강력한 도구입니다. 이 글에서는 VS Code에서 DevContainer를 설정하고 사용하는 방법을 상세히 알아보겠습니다.
+# 개요
 
-## 개요
+Dev Containers는 개발 환경을 일관되게 유지하고 팀원들과 동일한 환경에서 작업할 수 있게 해주는 강력한 도구입니다. 이 글에서는 VS Code에서 Dev Containers를 설정하고 사용하는 방법을 상세히 알아보겠습니다.
+
 - Docker Desktop 설치 방법
-- VS Code DevContainer 확장 프로그램 설치
+- VS Code Dev Containers 확장 프로그램 설치
 - Python 개발 환경 컨테이너 생성 및 설정
 - 컨테이너 관리 및 재사용 방법
 - 팀 프로젝트에서의 활용 방안
 
-## Docker Desktop 설치
+# Docker Desktop 설치
 
 개발 환경 구축의 첫 단계로 [Docker Desktop](https://www.docker.com/products/docker-desktop/)을 설치해야 합니다. Docker Desktop은 컨테이너를 관리하고 실행하는 데 필요한 핵심 도구입니다.
 
-## Dev Containers 설치하기
+# Dev Containers 설치하기
 
-VS Code에서 DevContainer를 사용하기 위한 확장 프로그램 설치 과정입니다:
+VS Code에서 Dev Containers를 사용하기 위한 확장 프로그램 설치 과정입니다:
 
 1. VS Code를 실행합니다
 2. 확장 프로그램 탭으로 이동합니다
 3. Dev Containers를 검색하여 설치합니다
 4. 설치 완료 후 VS Code를 재시작합니다
 
-## 컨테이너 생성하기
+# 컨테이너 생성하기
 
 Python 개발 환경을 위한 컨테이너 설정 방법입니다:
 
@@ -41,7 +42,7 @@ Python 개발 환경을 위한 컨테이너 설정 방법입니다:
 }
 ```
 
-## 컨테이너 빌드 및 실행
+# 컨테이너 빌드 및 실행
 
 컨테이너를 처음 실행하는 방법입니다:
 
@@ -52,7 +53,7 @@ Python 개발 환경을 위한 컨테이너 설정 방법입니다:
 4. 터미널에서 `python --version` 명령어로 설정한 버전이 정상적으로 설치되었는지 확인합니다
 5. Docker Desktop에서 생성된 이미지와 컨테이너를 확인합니다
 
-## 컨테이너 관리
+# 컨테이너 관리
 
 ### 재빌드하기
 설정 변경 사항을 적용하려면 다음 과정으로 컨테이너를 재빌드합니다:
@@ -66,7 +67,7 @@ Python 개발 환경을 위한 컨테이너 설정 방법입니다:
 1. F1키로 명령 팔레트를 엽니다
 2. `Close Remote Connection`을 선택합니다
 
-## 팀 프로젝트에서 활용하기
+# 팀 프로젝트에서 활용하기
 
 다른 팀원들과 동일한 개발 환경을 공유하는 방법입니다:
 
