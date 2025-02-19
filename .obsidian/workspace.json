@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Service Studio Overview"
             }
+          },
+          {
+            "id": "1bde70c9145de671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,10 +204,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4a05e75b44192be",
+  "active": "1bde70c9145de671",
   "lastOpenFiles": [
-    "Archives/Draft/Python FastAPI 서버 Jenkins 구축 가이드.md",
     "Archives/Draft/outsystems/Service Studio Overview.md",
+    "conflict-files-obsidian-git.md",
+    "Tools/Setup/Docker/VS Code Dev Containers 사용하기.md",
+    "Tools/Setup/Docker",
+    "Settings/Templates/Template-16-Dify-WorkFlow-Web-Research.md",
+    "Settings/Templates/Template-15-Dify-WorkFlow.md",
+    "Settings/Templates/Template-14-Dify-Agent-News.md",
+    "Settings/Templates/Template-12-Dify-Chat-With-Inputs.md",
+    "Settings/Templates/Template-13-Dify-Agent.md",
+    "Settings/Templates/Template-11-Dify-Chat-Custom-Prompt.md",
+    "Settings/Templates/Template-10-Dify-Chat-Simple.md",
+    "Settings/Templates/Template-07-Custom-Prompt.md",
+    "Settings/Templates/Template-06-Summary.md",
+    "Settings/Templates/Template-05-Tag.md",
+    "Settings/Templates/Template-04-Index.md",
+    "Settings/Templates/Template-03-Topic.md",
+    "Settings/Templates/Template-02-Title.md",
+    "Settings/Templates/Template-01-BasicSetup.md",
+    "Settings/Templates",
+    "Settings",
+    "Programming/Python/LangGraph/LangGraph 기본 챗봇 만들기.md",
+    "Archives/Draft/What is AI Agent.md",
+    "Archives/Draft/Python FastAPI 서버 Jenkins 구축 가이드.md",
     "Archives/Draft/outsystems",
     "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
     "Programming/Python/LangGraph/LangGraph 기본 요소 - 상태(State).md",
@@ -203,36 +239,15 @@
     "Programming/Python/LangSmith/LangSmith 키 발급 및 설정하기.md",
     "assets/images/langsmith/02.png",
     "assets/images/spring-ai/02.png",
-    "START HERE.md",
     "assets/images/langsmith/01.png",
     "assets/images/langsmith/LangSmith1.png",
     "assets/images/langsmith",
     "assets/images/새 폴더",
-    "Archives/Draft/가이드 샘플.md",
     "Programming/Python/LangSmith",
-    "Programming/Python/무제.md",
-    "Programming/Python/LangChain/무제.md",
-    "Archives/Draft/한국과 일본 만 나이 계산하기.md",
-    "Archives/Draft/RAG 프로세스.md",
-    "Archives/OmniEsol.md",
-    "conflict-files-obsidian-git.md",
     "assets/images/super-memo/tanzania.gif",
     "assets/images/super-memo/element.jpg",
     "assets/images/super-memo",
-    "SuperMemo/규칙 9. 집합을 피하세요..md",
-    "SuperMemo/규칙 8. 그래픽 삭제는 빈칸 채우기만큼 좋습니다..md",
-    "SuperMemo/규칙 7. 기억술 기법(Mnemonic techniques) 활용하기.md",
-    "SuperMemo/규칙 6. 이미지 사용하기.md",
-    "SuperMemo/규칙 5. 빈칸 채우기는 쉽고 효과적입니다.md",
-    "SuperMemo/규칙 4. 최소 정보 원칙을 고수하세요.md",
-    "SuperMemo/규칙 3. 기초를 바탕으로 구축하세요.md",
-    "SuperMemo/규칙 2. 암기하기 전에 학습하세요.md",
-    "SuperMemo/규칙 10. 열거형을 피하세요..md",
-    "SuperMemo/규칙 1. 이해하지 못한 것은 학습하지 마세요.md",
     "SuperMemo",
-    "Programming/Python/Streamlit",
-    "Archives/Draft/01-RAG-Practice.ipynb",
-    "Archives/Draft",
     "assets/images/langchain/01.png",
     "assets/images/Welcome.jpg",
     "assets/images/spring-ai/01.PNG",
