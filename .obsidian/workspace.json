@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
+                "file": "Archives/Draft/outsystems/Service Studio Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LangChain Markdown 문서 처리 가이드"
+              "title": "Service Studio Overview"
             }
           }
         ]
@@ -191,6 +191,10 @@
   },
   "active": "a4a05e75b44192be",
   "lastOpenFiles": [
+    "Archives/Draft/Python FastAPI 서버 Jenkins 구축 가이드.md",
+    "Archives/Draft/outsystems/Service Studio Overview.md",
+    "Archives/Draft/outsystems",
+    "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
     "Programming/Python/LangGraph/LangGraph 기본 요소 - 상태(State).md",
     "Archives/즐겨찾기.md",
     "Programming/Python/Streamlit/Streamlit에서 LangChain 활용하기.md",
@@ -226,12 +230,9 @@
     "SuperMemo/규칙 10. 열거형을 피하세요..md",
     "SuperMemo/규칙 1. 이해하지 못한 것은 학습하지 마세요.md",
     "SuperMemo",
-    "Programming/Python/Streamlit/Streamlit CDN 폰트 설정.md",
     "Programming/Python/Streamlit",
     "Archives/Draft/01-RAG-Practice.ipynb",
     "Archives/Draft",
-    "01-RAG-Practice.ipynb",
-    "Archives/허깅페이스 GPU 자원 대여 비용.md",
     "assets/images/langchain/01.png",
     "assets/images/Welcome.jpg",
     "assets/images/spring-ai/01.PNG",
