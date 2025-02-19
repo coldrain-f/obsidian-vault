@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "964fe9141a6f6da8",
+        "id": "9b56852fbc99a467",
         "type": "tabs",
         "children": [
           {
-            "id": "1ca83024293ee946",
+            "id": "2758426216e9fb19",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "Tools/Setup/Docker/VS Code Dev Containers 사용하기.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "VS Code Dev Containers 사용하기"
             }
           }
         ]
@@ -191,8 +193,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1ca83024293ee946",
+  "active": "2758426216e9fb19",
   "lastOpenFiles": [
+    "Tools/Setup/Docker/VS Code Dev Containers 사용하기.md",
+    "Tools/Setup/Docker",
     "VS Code Dev Containers 사용하기.md",
     "Pasted image 20250219194604.png"
   ]
