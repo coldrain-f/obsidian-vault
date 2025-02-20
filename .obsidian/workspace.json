@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ee7a6e1650bf12d",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Settings/Templates/Template-01-BasicSetup.md",
-                "bFile": "Settings/Templates/Template-01-BasicSetup.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Template-01-BasicSetup"
-            }
-          },
-          {
             "id": "179be27e5bb09050",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "Obsidian/Updates/Obsidian v1.8.7 업데이트 내역.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "Obsidian v1.8.7 업데이트 내역"
             }
           }
         ]
@@ -191,7 +179,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:빠른 전환기 열기": false,
       "markdown-importer:마크다운 형식 불러오기 열기": false,
       "graph:그래프 뷰 열기": false,
@@ -199,11 +186,13 @@
       "command-palette:명령어 팔레트 열기": false,
       "publish:변경사항 게재": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "01e14c1af851ef6e",
+  "active": "179be27e5bb09050",
   "lastOpenFiles": [
+    "Obsidian/Updates/Obsidian v1.8.7 업데이트 내역.md",
     "Settings/Templates/Template-01-BasicSetup.md",
     "Settings/Templates/Template-02-Title.md",
     "Settings/Templates/Template-03-Topic.md",
@@ -233,7 +222,6 @@
     "Programming/Python/LangGraph/LangGraph 기본 요소 - 상태(State).md",
     "Archives/즐겨찾기.md",
     "Programming/Python/Streamlit/Streamlit에서 LangChain 활용하기.md",
-    "Archives/Draft/HTTP API 정의서 샘플.md",
     "Programming/Python/LangGraph",
     "assets/images/langsmith/02.png",
     "assets/images/spring-ai/02.png",
