@@ -1,101 +1,86 @@
-## Highlights
+# 주요 변경사항
 
-- Web viewer, a new core plugin, lets you open external links within Obsidian. This makes it easier to read linked content without leaving the app and improves multitasking for web research. The plugin is disabled by default and must be enabled manually in settings.
-- Sync now has a new view option, "Hide my changes," which hides your own file changes in a shared Obsidian sync vault.
-- File Explorer now includes an option to automatically reveal the active file.
-- Added the "Download attachments for current file" command, which downloads all externally embedded images and replaces the external links with internal embeds.
-- Added the "Insert footnote" command. Footnote autocomplete now provides a fallback to create a new footnote if no match is found.
-- Tags view now includes a search filter.
-- Outline now has an "Auto-scroll to current section" option.
+- 웹 뷰어가 새로운 코어 플러그인으로 추가되어 외부 링크를 Obsidian 내에서 열 수 있게 되었습니다. 앱을 벗어나지 않고 링크된 콘텐츠를 읽을 수 있어 웹 리서치 시 멀티태스킹이 용이해졌습니다. 이 플러그인은 기본적으로 비활성화되어 있으며 설정에서 수동으로 활성화해야 합니다.
+- 공유된 Obsidian 동기화 저장소에서 "내 변경사항 숨기기" 옵션이 추가되어 자신의 파일 변경사항을 숨길 수 있게 되었습니다.
+- 파일 탐색기에 활성 파일을 자동으로 보여주는 옵션이 추가되었습니다.
+- "현재 파일의 첨부파일 다운로드" 명령이 추가되어 외부에서 임베드된 모든 이미지를 다운로드하고 외부 링크를 내부 임베드로 교체할 수 있습니다.
+- "각주 삽입" 명령이 추가되었습니다. 각주 자동완성 시 일치하는 항목이 없는 경우 새 각주를 생성하는 대체 기능을 제공합니다.
+- 태그 뷰에 검색 필터가 추가되었습니다.
+- 개요에 "현재 섹션으로 자동 스크롤" 옵션이 추가되었습니다.
 
-## Improvements
+# 개선사항
 
-- When modifying a numbered list, the numbers are now updated automatically.
-- Recently used commands now appear at the top of the command palette.
-- Editor suggestions now scroll back to the top when input changes.
-- Middle-clicking the tab forward/back navigation buttons now opens the file in a new tab.
-- Added a "Comment" option to the editor context menu under the "Format" submenu.
-- Improved handling of files with invalid frontmatter:
-    - Reading mode now shows an error message at the top of the file.
-    - The "Add property" command now shows an error instead of removing invalid frontmatter.
-- Canvas groups can now have empty labels, which remain visible while editing.
-- Canvas cards now stay mounted while being actively edited, even when zoomed out.
-- Sync version history now renders a preview image when viewing a Canvas file.
-- `<source>` HTML elements now support relative links.
-- The "Search current file" search bar now displays the total number of results.
-- Improved rendering of bookmarked URLs in the quick switcher.
-- Pressing the `Down` arrow key in search now removes the cursor from the search bar, making it easier to navigate results.
-- The "Insert template" command now sorts templates by file path and displays folder names.
-- Right-clicking anywhere in the File Explorer now shows a context menu.
-- File Explorer now includes a menu option to create a new folder with the selected items.
-- Individual values from list properties can now be copied using the context menu or `Command/Ctrl + C`.
-- Right-clicking anywhere in the Local Properties view now shows the property menu.
-- Dragging a file over a collapsed folder in File Explorer now automatically expands the folder.
-- Sort options are now available in the properties menu.
-- `<img>`, `<video>` and `<audio>` tags with relative `src` paths are now rendered in Live Preview and Reading mode.
-- The tab close button is now hidden if the tab is too small.
-- In Sync History, clicking an active item now expands its entry.
-- The callout context menu now includes an option to remove callout formatting.
-- The "Show backlinks in document" preference is now saved for each tab in the workspace.
-- The "Show ribbon" setting is now saved in `appearance.json` instead of `app.json`.
-- Page previews on hover are now supported in tab headers of notes and attachments.
-- Obsidian Publish now includes a new command, "Open in live site," to open the current live version of a note.
-- Improved the screen shown when connecting to a sync remote vault.
-- The Sync plugin is now enabled by default to improve visibility in settings. Added a new command, "Sync: Set up sync."
-- File Explorer now automatically deselects files after they are moved into a collapsed folder.
+- 번호가 매겨진 목록을 수정할 때 번호가 자동으로 업데이트됩니다.
+- 최근 사용한 명령이 명령 팔레트 상단에 표시됩니다.
+- 에디터 제안이 입력 변경 시 상단으로 스크롤됩니다.
+- 탭 앞/뒤로 가기 버튼을 마우스 중간 버튼으로 클릭하면 새 탭에서 파일이 열립니다.
+- 에디터 컨텍스트 메뉴의 "서식" 하위 메뉴에 "주석" 옵션이 추가되었습니다.
+- 잘못된 frontmatter가 있는 파일 처리가 개선되었습니다:
+    - 읽기 모드에서 파일 상단에 오류 메시지가 표시됩니다.
+    - "속성 추가" 명령이 잘못된 frontmatter를 제거하는 대신 오류를 표시합니다.
+- 캔버스 그룹에 빈 레이블을 사용할 수 있으며, 편집 중에도 계속 표시됩니다.
+- 캔버스 카드가 축소된 상태에서도 편집 중에는 고정된 상태를 유지합니다.
+- 동기화 버전 기록에서 캔버스 파일을 볼 때 미리보기 이미지가 표시됩니다.
+- `<source>` HTML 요소가 상대 링크를 지원합니다.
+- "현재 파일 검색" 검색창에 전체 결과 수가 표시됩니다.
+- 빠른 전환기에서 북마크된 URL의 렌더링이 개선되었습니다.
+- 검색에서 `아래쪽 화살표` 키를 누르면 검색창에서 커서가 제거되어 결과 탐색이 쉬워졌습니다.
+- "템플릿 삽입" 명령이 파일 경로별로 템플릿을 정렬하고 폴더 이름을 표시합니다.
+- 파일 탐색기의 아무 곳이나 우클릭하면 컨텍스트 메뉴가 표시됩니다.
+- 파일 탐색기에 선택한 항목으로 새 폴더를 만드는 메뉴 옵션이 추가되었습니다.
+- 목록 속성의 개별 값을 컨텍스트 메뉴나 `Command/Ctrl + C`로 복사할 수 있습니다.
+- 로컬 속성 뷰의 아무 곳이나 우클릭하면 속성 메뉴가 표시됩니다.
+- 파일 탐색기에서 접힌 폴더 위로 파일을 드래그하면 폴더가 자동으로 펼쳐집니다.
+- 속성 메뉴에서 정렬 옵션을 사용할 수 있습니다.
+- 상대 경로 `src`가 있는 `<img>`, `<video>`, `<audio>` 태그가 실시간 미리보기와 읽기 모드에서 렌더링됩니다.
+- 탭이 너무 작으면 탭 닫기 버튼이 숨겨집니다.
+- 동기화 기록에서 활성 항목을 클릭하면 해당 항목이 확장됩니다.
+- 콜아웃 컨텍스트 메뉴에 콜아웃 서식을 제거하는 옵션이 추가되었습니다.
+- "문서에 백링크 표시" 설정이 작업 공간의 각 탭별로 저장됩니다.
+- "리본 표시" 설정이 `app.json` 대신 `appearance.json`에 저장됩니다.
+- 노트와 첨부파일의 탭 헤더에서 페이지 미리보기가 지원됩니다.
+- Obsidian Publish에 "실시간 사이트에서 열기" 명령이 추가되어 노트의 현재 실시간 버전을 열 수 있습니다.
+- 동기화 원격 저장소 연결 시 표시되는 화면이 개선되었습니다.
+- 설정에서 더 쉽게 찾을 수 있도록 동기화 플러그인이 기본적으로 활성화되었습니다. "동기화 설정" 명령이 추가되었습니다.
+- 파일 탐색기에서 파일을 접힌 폴더로 이동한 후 자동으로 선택이 해제됩니다.
 
-## No longer broken
+# 버그 수정
 
-- Live Preview now renders reference-style links correctly.
-- The "Tab indent size" setting now controls the visual width of tabs/indents.
-- Fixed renaming headings and block IDs showing the incorrect number of modified files.
-- Graph view no longer considers Canvas files as attachments.
-- Fixed search sort order preference not always being saved.
-- Layout and config changes now always save before quitting Obsidian.
-- Fixed a rare bug where "Insert template" failed if the cursor was at the start of a file and the template content began with a horizontal rule.
-- Fixed a bug where right-clicking the property icon while the property name was empty would hide the entire row.
-- Fixed `Alt-Enter` not working if the cursor overlapped with the embed start `![[`.
-- Fixed an issue where the app switched to the default theme after removing an inactive theme.
-- Canvas now shows additional context menu options when multiple file cards are selected.
-- Fixed missing margin on code blocks and callouts inside embeds.
-- Fixed "Rename file" not working if a sidebar view was active.
-- The media selection prompt no longer allows file creation when no results match the input.
-- Pressing `Shift-Enter` in text property input now correctly uses the current input text value.
-- Fixed link resolution when a filename ends with a Greek character.
-- Footnote IDs are now case-insensitive.
-- Fixed flickering when selecting text in PDFs.
-- Embedded headings now correctly render Markdown formatting (e.g., `## *Hello*, World`).
-- Increased contrast for code color and added CSS variables for code block borders.
-- Clicking the "Copy" button in a callout no longer switches it to source mode.
-- Added a "Retry" button when failing to load remote vaults due to a poor network connection.
-- Fixed some Japanese characters rendering incorrectly when using the default font.
-- Fixed `rem` units in pop-out windows not matching the main window.
-- Fixed an issue where inline footnotes were not always processed by the metadata cache.
-- Fixed CSS specificity of task checkbox position in editable lines to avoid conflicting with rendered checkboxes in source mode (e.g. callouts).
-- Property value inputs now respect the spellcheck setting.
-- Fixed Search sometimes forgetting the sort order after using "Search in all files."
-- Fixed "Rename heading" and "Rename block ID" not working when triggered from an embed.
-- Fixed the "Excluded files" screen not properly saving.
-- Updated the description of "Tab indent size" to better match its behavior.
-- Fixed a bug where editing an embedded heading (e.g., `[[file#heading]]`) from Page Preview modified the heading text.
-- Fixed MathJax not rendering inside embedded headings.
-- Fixed a bug where commands did not work correctly when navigating from a note to an attachment. For example, `Command/Ctrl + F` sometimes did not work in PDF view.
-- Fixed PDF view's "Copy link to selection" sometimes applying the selection to the wrong text node.
-- Pressing `Enter` in a multi-line list item now continues the list properly.
-- Fixed "Toggle comment" sometimes placing the cursor in the wrong position.
-- Fixed an issue where closing a pop-out window at certain times prevented events like saving the workspace from firing.
-- Fixed a bug where opening a note with folded headings didn't restore folds correctly if a heading contained a code block.
-- Fixed Graph view errors when setting "force" options to `0`.
-- Fixed page previews not working reliably in Graph view:
-    - Hovering over nodes now reliably opens page previews.
-    - Hovering then pressing the modifier key also opens the page preview.
-    - Hovering over multiple nodes in quick succession now properly updates the preview.
-- Clicking a link in the sidebar (without pressing a modifier) now correctly focuses the tab.
-- Fixed an issue where double-clicking a node label in Canvas switched the node to edit mode.
-
-## Third-party libraries
-
-- Upgraded Prism.js to 1.29.0.
-- Upgraded Turndown to 7.2.0.
-- Upgraded Mermaid to 11.3.0.
-- Upgraded CodeMirror to the latest version.
+- 실시간 미리보기에서 참조 스타일 링크가 올바르게 렌더링됩니다.
+- "탭 들여쓰기 크기" 설정이 탭/들여쓰기의 시각적 너비를 제어합니다.
+- 헤딩과 블록 ID 이름 변경 시 수정된 파일 수가 잘못 표시되는 문제가 수정되었습니다.
+- 그래프 뷰에서 캔버스 파일을 첨부파일로 간주하지 않습니다.
+- 검색 정렬 순서 설정이 항상 저장되지 않는 문제가 수정되었습니다.
+- Obsidian을 종료하기 전에 레이아웃과 설정 변경사항이 항상 저장됩니다.
+- 커서가 파일 시작 부분에 있고 템플릿 내용이 가로 줄로 시작할 때 "템플릿 삽입"이 실패하는 드문 버그가 수정되었습니다.
+- 속성 이름이 비어있을 때 속성 아이콘을 우클릭하면 전체 행이 숨겨지는 버그가 수정되었습니다.
+- 커서가 임베드 시작 `![[`와 겹칠 때 `Alt-Enter`가 작동하지 않는 문제가 수정되었습니다.
+- 비활성 테마를 제거한 후 앱이 기본 테마로 전환되는 문제가 수정되었습니다.
+- 여러 파일 카드가 선택된 경우 캔버스에 추가 컨텍스트 메뉴 옵션이 표시됩니다.
+- 임베드 내 코드 블록과 콜아웃의 여백이 누락된 문제가 수정되었습니다.
+- 사이드바 뷰가 활성화된 상태에서 "파일 이름 변경"이 작동하지 않는 문제가 수정되었습니다.
+- 미디어 선택 프롬프트에서 입력과 일치하는 결과가 없을 때 파일 생성을 허용하지 않습니다.
+- 텍스트 속성 입력에서 `Shift-Enter`를 누를 때 현재 입력 텍스트 값이 올바르게 사용됩니다.
+- 파일 이름이 그리스 문자로 끝날 때 링크 해석이 수정되었습니다.
+- 각주 ID가 대소문자를 구분하지 않습니다.
+- PDF에서 텍스트 선택 시 깜빡임이 수정되었습니다.
+- 임베드된 헤딩에서 마크다운 서식이 올바르게 렌더링됩니다(예: `## *Hello*, World`).
+- 코드 색상의 대비가 증가되었고 코드 블록 테두리용 CSS 변수가 추가되었습니다.
+- 콜아웃에서 "복사" 버튼을 클릭해도 소스 모드로 전환되지 않습니다.
+- 네트워크 연결 불량으로 원격 저장소 로드에 실패할 때 "재시도" 버튼이 추가되었습니다.
+- 기본 글꼴 사용 시 일부 일본어 문자가 잘못 렌더링되는 문제가 수정되었습니다.
+- 팝아웃 창의 `rem` 단위가 메인 창과 일치하지 않는 문제가 수정되었습니다.
+- 인라인 각주가 메타데이터 캐시에서 항상 처리되지 않는 문제가 수정되었습니다.
+- 소스 모드의 렌더링된 체크박스와 충돌을 피하기 위해 편집 가능한 줄의 작업 체크박스 위치 CSS 특이성이 수정되었습니다.
+- 속성 값 입력이 맞춤법 검사 설정을 준수합니다.
+- "모든 파일에서 검색" 사용 후 검색이 정렬 순서를 잊어버리는 문제가 수정되었습니다.
+- 임베드에서 트리거할 때 "헤딩 이름 변경"과 "블록 ID 이름 변경"이 작동하지 않는 문제가 수정되었습니다.
+- "제외된 파일" 화면이 제대로 저장되지 않는 문제가 수정되었습니다.
+- "탭 들여쓰기 크기"의 설명이 동작과 더 잘 일치하도록 업데이트되었습니다.
+- 페이지 미리보기에서 임베드된 헤딩(예: `[[file#heading]]`)을 편집할 때 헤딩 텍스트가 수정되는 버그가 수정되었습니다.
+- 임베드된 헤딩 내 MathJax가 렌더링되지 않는 문제가 수정되었습니다.
+- 노트에서 첨부파일로 이동할 때 명령이 올바르게 작동하지 않는 버그가 수정되었습니다. 예를 들어, PDF 뷰에서 `Command/Ctrl + F`가 가끔 작동하지 않았습니다.
+- PDF 뷰의 "선택 영역 링크 복사"가 때때로 잘못된 텍스트 노드에 선택을 적용하는 문제가 수정되었습니다.
+- 여러 줄 목록 항목에서 `Enter`를 누르면 목록이 올바르게 계속됩니다.
+- "주석 토글"이 때때로 커서를 잘못된 위치에 놓는 문제가 수정되었습니다.
+- 특정 시점에 팝아웃 창을 닫으면 작업 공간 저장과 같은 이벤트가 발생하지 않
