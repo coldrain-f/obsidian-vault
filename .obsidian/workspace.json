@@ -4,39 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "78395c6f89df463a",
+        "id": "311d2646a86fbf7e",
         "type": "tabs",
         "children": [
           {
-            "id": "a4a05e75b44192be",
+            "id": "8ee7a6e1650bf12d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Archives/Draft/outsystems/Service Studio Overview.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Settings/Templates/Template-01-BasicSetup.md",
+                "bFile": "Settings/Templates/Template-01-BasicSetup.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Service Studio Overview"
+              "icon": "diff",
+              "title": "Diff: Template-01-BasicSetup"
             }
           },
           {
-            "id": "1bde70c9145de671",
+            "id": "179be27e5bb09050",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.7"
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,18 +191,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:빠른 전환기 열기": false,
       "markdown-importer:마크다운 형식 불러오기 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:그래프 뷰 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "publish:변경사항 게재": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1bde70c9145de671",
+  "active": "01e14c1af851ef6e",
   "lastOpenFiles": [
+    "Settings/Templates/Template-01-BasicSetup.md",
+    "Settings/Templates/Template-02-Title.md",
+    "Settings/Templates/Template-03-Topic.md",
+    "Settings/Templates/Template-04-Index.md",
+    "Settings/Templates/Template-05-Tag.md",
+    "Settings/Templates/Template-06-Summary.md",
+    "Settings/Templates/Template-07-Custom-Prompt.md",
+    "Tools/Setup/Docker/DockerFile을 작성하여 이미지 생성하기.md",
+    "Settings/Templates/Template-10-Dify-Chat-Simple.md",
     "Archives/Draft/outsystems/Service Studio Overview.md",
     "conflict-files-obsidian-git.md",
     "Tools/Setup/Docker/VS Code Dev Containers 사용하기.md",
@@ -216,14 +223,6 @@
     "Settings/Templates/Template-12-Dify-Chat-With-Inputs.md",
     "Settings/Templates/Template-13-Dify-Agent.md",
     "Settings/Templates/Template-11-Dify-Chat-Custom-Prompt.md",
-    "Settings/Templates/Template-10-Dify-Chat-Simple.md",
-    "Settings/Templates/Template-07-Custom-Prompt.md",
-    "Settings/Templates/Template-06-Summary.md",
-    "Settings/Templates/Template-05-Tag.md",
-    "Settings/Templates/Template-04-Index.md",
-    "Settings/Templates/Template-03-Topic.md",
-    "Settings/Templates/Template-02-Title.md",
-    "Settings/Templates/Template-01-BasicSetup.md",
     "Settings/Templates",
     "Settings",
     "Programming/Python/LangGraph/LangGraph 기본 챗봇 만들기.md",
@@ -236,7 +235,6 @@
     "Programming/Python/Streamlit/Streamlit에서 LangChain 활용하기.md",
     "Archives/Draft/HTTP API 정의서 샘플.md",
     "Programming/Python/LangGraph",
-    "Programming/Python/LangSmith/LangSmith 키 발급 및 설정하기.md",
     "assets/images/langsmith/02.png",
     "assets/images/spring-ai/02.png",
     "assets/images/langsmith/01.png",
