@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "5f1f9a97d3f5231e",
+    "id": "54a762ee3f9b43af",
     "type": "split",
     "children": [
       {
-        "id": "683421e026336d5e",
+        "id": "9b56852fbc99a467",
         "type": "tabs",
         "children": [
           {
-            "id": "f3a240e0db709d54",
+            "id": "2758426216e9fb19",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-21 11.42.04.excalidraw.md"
+                "file": "Tools/Setup/Docker/VS Code Dev Containers 사용하기.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-21 11.42.04.excalidraw"
+              "icon": "lucide-file",
+              "title": "VS Code Dev Containers 사용하기"
             }
           }
         ]
@@ -25,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c9888c2401364c1e",
+    "id": "a7642a79b8103a7a",
     "type": "split",
     "children": [
       {
-        "id": "9770578e8ab36510",
+        "id": "98645ff313ec7952",
         "type": "tabs",
         "children": [
           {
-            "id": "90affdab810994c9",
+            "id": "06c5a9a5c6cee5a7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,12 +48,12 @@
             }
           },
           {
-            "id": "d8b416b2cc8fc963",
+            "id": "d7beb9a37c18b87f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "가상환경",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,37 +65,35 @@
             }
           },
           {
-            "id": "9c28fc57ed78e272",
+            "id": "19e8fa40329db3bc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "북마크"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 400.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "b292126d1153af91",
+    "id": "a674b5839284a30f",
     "type": "split",
     "children": [
       {
-        "id": "8b88a0c44c1635de",
+        "id": "dceee94211fbbabb",
         "type": "tabs",
         "children": [
           {
-            "id": "ac17e04c3a1beb5d",
+            "id": "6dc27013112d044b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,60 +103,53 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "무제 파일의 백링크"
+              "title": "백링크"
             }
           },
           {
-            "id": "ef788b44f1a85fe2",
+            "id": "06055c51ee5d9ae3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "무제 파일의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
-            "id": "8a1143f477bc37a8",
+            "id": "9fe945ae72d339f4",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "태그"
             }
           },
           {
-            "id": "8b48e402488c019b",
+            "id": "2c73fca1891f64b1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Setup/Version Control/Obsidian Git 연동 가이드.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Obsidian Git 연동 가이드 개요"
+              "title": "개요"
             }
           },
           {
-            "id": "01e14c1af851ef6e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "4a8dee15f9b982ca",
+            "id": "a50071f4bbf649d8",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -168,74 +161,44 @@
               "icon": "lucide-archive",
               "title": "모든 속성"
             }
+          },
+          {
+            "id": "f2da98515075074b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
       "markdown-importer:마크다운 형식 불러오기 열기": false,
+      "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "publish:변경사항 게재": false,
       "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "publish:변경사항 게재": false
     }
   },
-  "active": "f3a240e0db709d54",
+  "active": "f2da98515075074b",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-02-21 11.42.04.excalidraw.md",
-    "Tools/Setup/Docker/DockerFile로 도커 이미지 생성하기.md",
-    "Obsidian/Updates/Obsidian v1.8.4 업데이트 내역.md",
-    "Obsidian/Updates/Obsidian v1.8.7 업데이트 내역.md",
-    "Settings/Templates/Template-01-BasicSetup.md",
-    "Settings/Templates/Template-02-Title.md",
-    "Settings/Templates/Template-07-Custom-Prompt.md",
-    "Settings/Templates/Template-06-Summary.md",
-    "Settings/Templates/Template-05-Tag.md",
-    "Settings/Templates/Template-04-Index.md",
-    "Settings/Templates/Template-03-Topic.md",
-    "Tools/Setup/Docker/DockerFile을 작성하여 이미지 생성하기.md",
-    "Settings/Templates/Template-10-Dify-Chat-Simple.md",
-    "Archives/Draft/outsystems/Service Studio Overview.md",
-    "conflict-files-obsidian-git.md",
+    "Archives/draft/Python FastAPI 서버 Jenkins 구축 가이드.md",
     "Tools/Setup/Docker/VS Code Dev Containers 사용하기.md",
     "Tools/Setup/Docker",
-    "Settings/Templates/Template-16-Dify-WorkFlow-Web-Research.md",
-    "Settings/Templates/Template-15-Dify-WorkFlow.md",
-    "Settings/Templates/Template-14-Dify-Agent-News.md",
-    "Settings/Templates/Template-12-Dify-Chat-With-Inputs.md",
-    "Settings/Templates/Template-13-Dify-Agent.md",
-    "Settings/Templates/Template-11-Dify-Chat-Custom-Prompt.md",
-    "Settings/Templates",
-    "Settings",
-    "Programming/Python/LangGraph/LangGraph 기본 챗봇 만들기.md",
-    "Archives/Draft/What is AI Agent.md",
-    "Archives/Draft/Python FastAPI 서버 Jenkins 구축 가이드.md",
-    "Archives/Draft/outsystems",
-    "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
-    "Programming/Python/LangGraph",
-    "assets/images/langsmith/02.png",
-    "assets/images/spring-ai/02.png",
-    "assets/images/langsmith/01.png",
-    "assets/images/langsmith/LangSmith1.png",
-    "assets/images/langsmith",
-    "assets/images/새 폴더",
-    "Programming/Python/LangSmith",
-    "assets/images/super-memo/tanzania.gif",
-    "assets/images/super-memo/element.jpg",
-    "assets/images/super-memo",
-    "SuperMemo",
-    "assets/images/langchain/01.png",
-    "assets/images/Welcome.jpg",
-    "assets/images/spring-ai/01.PNG",
-    "Pasted image 20250204094738.png"
+    "VS Code Dev Containers 사용하기.md",
+    "Pasted image 20250219194604.png"
   ]
 }
