@@ -11,14 +11,10 @@
             "id": "08915eb76be782a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Setup/Docker/DockerFile로 도커 이미지 생성하기.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DockerFile로 도커 이미지 생성하기"
+              "title": "새 탭"
             }
           }
         ]
@@ -190,10 +186,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08915eb76be782a2",
+  "active": "01e14c1af851ef6e",
   "lastOpenFiles": [
-    "Obsidian/Updates/Obsidian v1.8.4 업데이트 내역.md",
     "Tools/Setup/Docker/DockerFile로 도커 이미지 생성하기.md",
+    "Obsidian/Updates/Obsidian v1.8.4 업데이트 내역.md",
     "Obsidian/Updates/Obsidian v1.8.7 업데이트 내역.md",
     "Settings/Templates/Template-01-BasicSetup.md",
     "Settings/Templates/Template-02-Title.md",
