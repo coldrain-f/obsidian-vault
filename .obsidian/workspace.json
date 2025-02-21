@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f1f383ed6cf524f7",
+        "id": "683421e026336d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "08915eb76be782a2",
+            "id": "f3a240e0db709d54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-21 11.42.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-21 11.42.04.excalidraw"
             }
           }
         ]
@@ -74,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 400.5,
+    "collapsed": true
   },
   "right": {
     "id": "b292126d1153af91",
@@ -186,8 +189,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "01e14c1af851ef6e",
+  "active": "f3a240e0db709d54",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-02-21 11.42.04.excalidraw.md",
     "Tools/Setup/Docker/DockerFile로 도커 이미지 생성하기.md",
     "Obsidian/Updates/Obsidian v1.8.4 업데이트 내역.md",
     "Obsidian/Updates/Obsidian v1.8.7 업데이트 내역.md",
@@ -217,7 +221,6 @@
     "Archives/Draft/Python FastAPI 서버 Jenkins 구축 가이드.md",
     "Archives/Draft/outsystems",
     "Programming/Python/LangChain/LangChain Markdown 문서 처리 가이드.md",
-    "Programming/Python/LangGraph/LangGraph 기본 요소 - 상태(State).md",
     "Programming/Python/LangGraph",
     "assets/images/langsmith/02.png",
     "assets/images/spring-ai/02.png",
