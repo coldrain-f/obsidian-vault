@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b11663a6ab08c4db",
+        "id": "146ddd2ca2c4bc60",
         "type": "tabs",
         "children": [
           {
-            "id": "f106313b84d07587",
+            "id": "4edecb239558fceb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/01. 엔티티_단어추출.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "01. 엔티티_단어추출"
             }
           }
         ]
@@ -186,8 +190,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "01e14c1af851ef6e",
+  "active": "4edecb239558fceb",
   "lastOpenFiles": [
+    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/01. 엔티티.md",
+    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/01. 엔티티_단어추출.md",
+    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/entity-terminology.md",
+    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리",
+    "Archives/OutSystems/01.はじめに/はじめに.md",
+    "Archives/OutSystems/03. 앱 생성",
+    "Excalidraw/Drawing 2025-03-06 10.24.42.excalidraw.md",
+    "Archives/OutSystems/01.はじめに/はじめに 단어 추출.md",
+    "Archives/OutSystems/01.はじめに/はじめに_KR.md",
+    "Archives/OutSystems/01.はじめに",
+    "Archives/OutSystems",
+    "Archives/Outsystems/01.はじめに/はじめに.md",
+    "Archives/Outsystems/01.はじめに/はじめに_KR.md",
+    "Archives/Outsystems/01.はじめに/はじめに 단어 추출.md",
+    "Archives/Outsystems/무제/무제",
+    "Archives/Outsystems/01.はじめに",
+    "Archives/Outsystems",
     "Tools/Setup/Windows Server 2012 R2에 Python 환경변수 설정.md",
     "Excalidraw/Drawing 2025-02-21 11.42.04.excalidraw.md",
     "Tools/Setup/Docker/DockerFile로 도커 이미지 생성하기.md",
@@ -204,32 +225,15 @@
     "Settings/Templates/Template-10-Dify-Chat-Simple.md",
     "Archives/Draft/outsystems/Service Studio Overview.md",
     "conflict-files-obsidian-git.md",
-    "Tools/Setup/Docker/VS Code Dev Containers 사용하기.md",
     "Tools/Setup/Docker",
-    "Settings/Templates/Template-16-Dify-WorkFlow-Web-Research.md",
-    "Settings/Templates/Template-15-Dify-WorkFlow.md",
-    "Settings/Templates/Template-14-Dify-Agent-News.md",
-    "Settings/Templates/Template-12-Dify-Chat-With-Inputs.md",
-    "Settings/Templates/Template-13-Dify-Agent.md",
-    "Settings/Templates/Template-11-Dify-Chat-Custom-Prompt.md",
     "Settings/Templates",
     "Settings",
-    "Programming/Python/LangGraph/LangGraph 기본 챗봇 만들기.md",
-    "Archives/Draft/What is AI Agent.md",
-    "Archives/Draft/Python FastAPI 서버 Jenkins 구축 가이드.md",
-    "Archives/Draft/outsystems",
-    "Programming/Python/LangGraph",
     "assets/images/langsmith/02.png",
     "assets/images/spring-ai/02.png",
     "assets/images/langsmith/01.png",
     "assets/images/langsmith/LangSmith1.png",
-    "assets/images/langsmith",
-    "assets/images/새 폴더",
-    "Programming/Python/LangSmith",
     "assets/images/super-memo/tanzania.gif",
     "assets/images/super-memo/element.jpg",
-    "assets/images/super-memo",
-    "SuperMemo",
     "assets/images/langchain/01.png",
     "assets/images/Welcome.jpg",
     "assets/images/spring-ai/01.PNG",
