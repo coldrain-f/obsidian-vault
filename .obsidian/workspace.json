@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "5f1f9a97d3f5231e",
+    "id": "54a762ee3f9b43af",
     "type": "split",
     "children": [
       {
-        "id": "146ddd2ca2c4bc60",
+        "id": "9b56852fbc99a467",
         "type": "tabs",
         "children": [
           {
-            "id": "4edecb239558fceb",
+            "id": "2758426216e9fb19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/05. 엔티티 관계/08. 삭제 규칙(한국어).md",
-                "mode": "source",
+                "file": "Tools/Setup/Docker/VS Code Dev Containers 사용하기.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08. 삭제 규칙(한국어)"
+              "title": "VS Code Dev Containers 사용하기"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c9888c2401364c1e",
+    "id": "a7642a79b8103a7a",
     "type": "split",
     "children": [
       {
-        "id": "9770578e8ab36510",
+        "id": "98645ff313ec7952",
         "type": "tabs",
         "children": [
           {
-            "id": "90affdab810994c9",
+            "id": "06c5a9a5c6cee5a7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "d8b416b2cc8fc963",
+            "id": "d7beb9a37c18b87f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "가상환경",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,36 +65,35 @@
             }
           },
           {
-            "id": "9c28fc57ed78e272",
+            "id": "19e8fa40329db3bc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "북마크"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 300
   },
   "right": {
-    "id": "b292126d1153af91",
+    "id": "a674b5839284a30f",
     "type": "split",
     "children": [
       {
-        "id": "8b88a0c44c1635de",
+        "id": "dceee94211fbbabb",
         "type": "tabs",
         "children": [
           {
-            "id": "ac17e04c3a1beb5d",
+            "id": "6dc27013112d044b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,60 +103,53 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "무제 파일의 백링크"
+              "title": "백링크"
             }
           },
           {
-            "id": "ef788b44f1a85fe2",
+            "id": "06055c51ee5d9ae3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "무제 파일의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
-            "id": "8a1143f477bc37a8",
+            "id": "9fe945ae72d339f4",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "태그"
             }
           },
           {
-            "id": "8b48e402488c019b",
+            "id": "2c73fca1891f64b1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Setup/Version Control/Obsidian Git 연동 가이드.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Obsidian Git 연동 가이드 개요"
+              "title": "개요"
             }
           },
           {
-            "id": "01e14c1af851ef6e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "4a8dee15f9b982ca",
+            "id": "a50071f4bbf649d8",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -169,74 +161,73 @@
               "icon": "lucide-archive",
               "title": "모든 속성"
             }
+          },
+          {
+            "id": "f2da98515075074b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
       "markdown-importer:마크다운 형식 불러오기 열기": false,
+      "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "publish:변경사항 게재": false,
       "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "publish:변경사항 게재": false
     }
   },
-  "active": "4edecb239558fceb",
+  "active": "f2da98515075074b",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-03-06 10.24.42.excalidraw.md",
     "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/05. 엔티티 관계/08. 삭제 규칙.md",
     "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/05. 엔티티 관계/08. 삭제 규칙(한국어).md",
+    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/05. 엔티티 관계/07. 다대다 관계를 작성하기.md",
     "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/05. 엔티티 관계/07. 다대다 관계를 작성하기(한국어).md",
     "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/05. 엔티티 관계/06. 1대다 관계를 작성하기(한국어).md",
-    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/05. 엔티티 관계/05. 1대1 관계를 작성하기(한국어).md",
+    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/05. 엔티티 관계/06. 1대다 관계를 작성하기.md",
     "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/05. 엔티티 관계/05. 1대1 관계를 작성하기.md",
-    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/04. 엔티티 인덱스를 작성하기(한국어).md",
+    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/05. 엔티티 관계/05. 1대1 관계를 작성하기(한국어).md",
+    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/05. 엔티티 관계",
     "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/04. 엔티티 인덱스를 작성하기.md",
-    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/03. 정적 엔티티(한국어).md",
-    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/01. 엔티티(한국어).md",
-    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/02. 데이터를 보존하기 위한 엔티티 작성하기(한국어).md",
+    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/04. 엔티티 인덱스를 작성하기(한국어).md",
     "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/03. 정적 엔티티.md",
     "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/02. 데이터를 보존하기 위한 엔티티 작성하기.md",
+    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/03. 정적 엔티티(한국어).md",
+    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/02. 데이터를 보존하기 위한 엔티티 작성하기(한국어).md",
     "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/01. 엔티티.md",
-    "Archives/OutSystems/Screen Lifecycle - 3문제/스크린과 블록 라이프사이클 이벤트(한국어).md",
+    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/01. 엔티티(한국어).md",
     "Archives/OutSystems/Screen Lifecycle - 3문제/스크린과 블록 라이프사이클 이벤트.md",
-    "Archives/OutSystems/Client Variable - 1문제/클라이언트 변수(한국어).md",
-    "Archives/OutSystems/Client Variable - 1문제/클라이언트 변수.md",
+    "Archives/OutSystems/Screen Lifecycle - 3문제/스크린과 블록 라이프사이클 이벤트(한국어).md",
     "Archives/OutSystems/Screen Lifecycle - 3문제/스크린과 블록 라이프사이클 이벤트(단어 추출).md",
-    "Archives/OutSystems/03. 앱 생성/메모.md",
+    "Archives/OutSystems/Client Variable - 1문제/클라이언트 변수.md",
+    "Archives/OutSystems/Client Variable - 1문제/클라이언트 변수(한국어).md",
     "Archives/OutSystems/Client Variable - 1문제/클라이언트 변수(단어 추출).md",
-    "Archives/OutSystems/Screen Lifecycle - 3문제",
-    "Archives/OutSystems/01.はじめに/はじめに_KR.md",
-    "Archives/OutSystems/Client Variable - 1문제",
-    "Archives/OutSystems/01.はじめに/はじめに 단어 추출.md",
-    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/05. 엔티티 관계/08. 삭제 규칙_단어추출.md",
-    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/05. 엔티티 관계/07. 다대다 관계를 작성하기_단어추출.md",
-    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/05. 엔티티 관계/06. 1대다 관계를 작성하기_단어추출.md",
-    "Archives/OutSystems/03. 앱 생성/01. 데이터 관리/05. 엔티티 관계",
+    "Archives/OutSystems/03. 앱 생성/메모.md",
     "Archives/OutSystems/03. 앱 생성/01. 데이터 관리",
+    "Archives/OutSystems/01.はじめに/はじめに_KR.md",
+    "Archives/OutSystems/01.はじめに/はじめに.md",
+    "Archives/OutSystems/Screen Lifecycle - 3문제",
+    "Archives/OutSystems/Client Variable - 1문제",
     "Archives/OutSystems/03. 앱 생성",
     "Archives/OutSystems/01.はじめに",
     "Archives/OutSystems",
-    "Archives/Outsystems/무제/무제",
-    "Archives/Outsystems/01.はじめに",
-    "Archives/Outsystems",
-    "assets/images/langsmith/02.png",
-    "assets/images/spring-ai/02.png",
-    "assets/images/langsmith/01.png",
-    "assets/images/langsmith/LangSmith1.png",
-    "assets/images/super-memo/tanzania.gif",
-    "assets/images/super-memo/element.jpg",
-    "assets/images/langchain/01.png",
-    "assets/images/Welcome.jpg",
-    "assets/images/spring-ai/01.PNG",
-    "Pasted image 20250204094738.png"
+    "Tools/Setup/Docker",
+    "Pasted image 20250219194604.png"
   ]
 }
